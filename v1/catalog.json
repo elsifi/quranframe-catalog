@@ -1,0 +1,364 @@
+{
+ "version": 1,
+ "updated": "2026-10-03T19:45:13Z",
+ "collections": [
+  {
+   "id": "roses",
+   "name": {
+    "en": "Roses & Still Life",
+    "ar": "ورود وطبيعة صامتة"
+   },
+   "cover": "art/roses/blush-brass-urn.jpg",
+   "order": 0,
+   "items": [
+    {
+     "id": "blush-brass-urn",
+     "title": {
+      "en": "Blush Roses in a Brass Urn",
+      "ar": "ورود وردية في جرة نحاسية"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/blush-brass-urn.jpg",
+     "hd_bytes": 429318,
+     "uhd": "art/roses/4k/blush-brass-urn.jpg",
+     "uhd_bytes": 1494037,
+     "thumb": "art/roses/thumb/blush-brass-urn.jpg"
+    },
+    {
+     "id": "peach-peonies-silver",
+     "title": {
+      "en": "Peach Peonies in a Silver Vase",
+      "ar": "فاوانيا خوخية في مزهرية فضية"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/peach-peonies-silver.jpg",
+     "hd_bytes": 382009,
+     "uhd": "art/roses/4k/peach-peonies-silver.jpg",
+     "uhd_bytes": 1287241,
+     "thumb": "art/roses/thumb/peach-peonies-silver.jpg"
+    },
+    {
+     "id": "crimson-delft",
+     "title": {
+      "en": "Crimson Roses in Delft Porcelain",
+      "ar": "ورود قرمزية في خزف دلفت"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/crimson-delft.jpg",
+     "hd_bytes": 457157,
+     "uhd": "art/roses/4k/crimson-delft.jpg",
+     "uhd_bytes": 1608326,
+     "thumb": "art/roses/thumb/crimson-delft.jpg"
+    },
+    {
+     "id": "cream-ranunculus-terracotta",
+     "title": {
+      "en": "Cream Roses and Ranunculus",
+      "ar": "ورود عاجية وحوذان"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/cream-ranunculus-terracotta.jpg",
+     "hd_bytes": 435876,
+     "uhd": "art/roses/4k/cream-ranunculus-terracotta.jpg",
+     "uhd_bytes": 1576218,
+     "thumb": "art/roses/thumb/cream-ranunculus-terracotta.jpg"
+    },
+    {
+     "id": "white-peonies-olive",
+     "title": {
+      "en": "White Peonies at Dusk",
+      "ar": "فاوانيا بيضاء عند الغسق"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/white-peonies-olive.jpg",
+     "hd_bytes": 410490,
+     "uhd": "art/roses/4k/white-peonies-olive.jpg",
+     "uhd_bytes": 1387123,
+     "thumb": "art/roses/thumb/white-peonies-olive.jpg"
+    },
+    {
+     "id": "pink-ranunculus-silver",
+     "title": {
+      "en": "Pink Ranunculus in Silver",
+      "ar": "حوذان وردي في إناء فضي"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/pink-ranunculus-silver.jpg",
+     "hd_bytes": 438272,
+     "uhd": "art/roses/4k/pink-ranunculus-silver.jpg",
+     "uhd_bytes": 1587336,
+     "thumb": "art/roses/thumb/pink-ranunculus-silver.jpg"
+    },
+    {
+     "id": "peach-roses-delft-jar",
+     "title": {
+      "en": "Peach Roses in a Delft Jar",
+      "ar": "ورود خوخية في جرة دلفت"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/peach-roses-delft-jar.jpg",
+     "hd_bytes": 446911,
+     "uhd": "art/roses/4k/peach-roses-delft-jar.jpg",
+     "uhd_bytes": 1556325,
+     "thumb": "art/roses/thumb/peach-roses-delft-jar.jpg"
+    },
+    {
+     "id": "crimson-peonies-terracotta",
+     "title": {
+      "en": "Crimson Peonies in Terracotta",
+      "ar": "فاوانيا قرمزية في إناء فخاري"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/crimson-peonies-terracotta.jpg",
+     "hd_bytes": 343786,
+     "uhd": "art/roses/4k/crimson-peonies-terracotta.jpg",
+     "uhd_bytes": 1156027,
+     "thumb": "art/roses/thumb/crimson-peonies-terracotta.jpg"
+    },
+    {
+     "id": "coral-peonies-brass",
+     "title": {
+      "en": "Coral Peonies and Cream Roses",
+      "ar": "فاوانيا مرجانية وورود عاجية"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/coral-peonies-brass.jpg",
+     "hd_bytes": 364011,
+     "uhd": "art/roses/4k/coral-peonies-brass.jpg",
+     "uhd_bytes": 1230995,
+     "thumb": "art/roses/thumb/coral-peonies-brass.jpg"
+    },
+    {
+     "id": "ivory-roses-silver-urn",
+     "title": {
+      "en": "Ivory Roses in a Silver Urn",
+      "ar": "ورود عاجية في جرة فضية"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/ivory-roses-silver-urn.jpg",
+     "hd_bytes": 512453,
+     "uhd": "art/roses/4k/ivory-roses-silver-urn.jpg",
+     "uhd_bytes": 1860560,
+     "thumb": "art/roses/thumb/ivory-roses-silver-urn.jpg"
+    },
+    {
+     "id": "ranunculus-delft-bowl",
+     "title": {
+      "en": "Ranunculus in a Delft Bowl",
+      "ar": "حوذان في وعاء دلفت"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/ranunculus-delft-bowl.jpg",
+     "hd_bytes": 439274,
+     "uhd": "art/roses/4k/ranunculus-delft-bowl.jpg",
+     "uhd_bytes": 1536795,
+     "thumb": "art/roses/thumb/ranunculus-delft-bowl.jpg"
+    },
+    {
+     "id": "apricot-terracotta-parchment",
+     "title": {
+      "en": "Apricot Roses at Golden Hour",
+      "ar": "ورود مشمشية في الساعة الذهبية"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/apricot-terracotta-parchment.jpg",
+     "hd_bytes": 410516,
+     "uhd": "art/roses/4k/apricot-terracotta-parchment.jpg",
+     "uhd_bytes": 1414444,
+     "thumb": "art/roses/thumb/apricot-terracotta-parchment.jpg"
+    },
+    {
+     "id": "golden-tea-roses-pewter",
+     "title": {
+      "en": "Golden Tea Roses in a Pewter Jug",
+      "ar": "ورود صفراء في إبريق من القصدير"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/golden-tea-roses-pewter.jpg",
+     "hd_bytes": 344425,
+     "uhd": "art/roses/4k/golden-tea-roses-pewter.jpg",
+     "uhd_bytes": 626094,
+     "thumb": "art/roses/thumb/golden-tea-roses-pewter.jpg"
+    },
+    {
+     "id": "lavender-roses-crystal",
+     "title": {
+      "en": "Lavender Roses in a Crystal Vase",
+      "ar": "ورود بنفسجية في مزهرية كريستال"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/lavender-roses-crystal.jpg",
+     "hd_bytes": 420897,
+     "uhd": "art/roses/4k/lavender-roses-crystal.jpg",
+     "uhd_bytes": 794358,
+     "thumb": "art/roses/thumb/lavender-roses-crystal.jpg"
+    },
+    {
+     "id": "crimson-damask-gilded-bowl",
+     "title": {
+      "en": "Crimson Damask Roses in a Gilded Bowl",
+      "ar": "ورود دمشقية حمراء في وعاء مذهب"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/crimson-damask-gilded-bowl.jpg",
+     "hd_bytes": 362378,
+     "uhd": "art/roses/4k/crimson-damask-gilded-bowl.jpg",
+     "uhd_bytes": 657291,
+     "thumb": "art/roses/thumb/crimson-damask-gilded-bowl.jpg"
+    },
+    {
+     "id": "white-roses-jasmine-alabaster",
+     "title": {
+      "en": "White Roses and Jasmine in an Alabaster Urn",
+      "ar": "ورود بيضاء وياسمين في جرة من المرمر"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/white-roses-jasmine-alabaster.jpg",
+     "hd_bytes": 388072,
+     "uhd": "art/roses/4k/white-roses-jasmine-alabaster.jpg",
+     "uhd_bytes": 697005,
+     "thumb": "art/roses/thumb/white-roses-jasmine-alabaster.jpg"
+    },
+    {
+     "id": "coral-roses-copper",
+     "title": {
+      "en": "Coral Roses in a Copper Cauldron",
+      "ar": "ورود مرجانية في قدر نحاسي"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/coral-roses-copper.jpg",
+     "hd_bytes": 381585,
+     "uhd": "art/roses/4k/coral-roses-copper.jpg",
+     "uhd_bytes": 704343,
+     "thumb": "art/roses/thumb/coral-roses-copper.jpg"
+    },
+    {
+     "id": "peonies-roses-celadon",
+     "title": {
+      "en": "Peonies and Roses in a Celadon Jar",
+      "ar": "فاوانيا وورود في جرة سيلادون"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/peonies-roses-celadon.jpg",
+     "hd_bytes": 345902,
+     "uhd": "art/roses/4k/peonies-roses-celadon.jpg",
+     "uhd_bytes": 619968,
+     "thumb": "art/roses/thumb/peonies-roses-celadon.jpg"
+    },
+    {
+     "id": "rose-hips-autumn-bronze",
+     "title": {
+      "en": "Autumn Roses and Rose Hips in Bronze",
+      "ar": "ورود خريفية وثمار الورد في البرونز"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/rose-hips-autumn-bronze.jpg",
+     "hd_bytes": 370827,
+     "uhd": "art/roses/4k/rose-hips-autumn-bronze.jpg",
+     "uhd_bytes": 673998,
+     "thumb": "art/roses/thumb/rose-hips-autumn-bronze.jpg"
+    },
+    {
+     "id": "pink-roses-silver-ewer",
+     "title": {
+      "en": "Pink Roses in a Silver Ewer",
+      "ar": "ورود وردية في إبريق فضي"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/pink-roses-silver-ewer.jpg",
+     "hd_bytes": 336727,
+     "uhd": "art/roses/4k/pink-roses-silver-ewer.jpg",
+     "uhd_bytes": 607420,
+     "thumb": "art/roses/thumb/pink-roses-silver-ewer.jpg"
+    },
+    {
+     "id": "cream-roses-wheat-basket",
+     "title": {
+      "en": "Cream Roses with Wheat in a Wicker Basket",
+      "ar": "ورود كريمية مع سنابل القمح في سلة"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/cream-roses-wheat-basket.jpg",
+     "hd_bytes": 420087,
+     "uhd": "art/roses/4k/cream-roses-wheat-basket.jpg",
+     "uhd_bytes": 765043,
+     "thumb": "art/roses/thumb/cream-roses-wheat-basket.jpg"
+    },
+    {
+     "id": "midnight-roses-blue-glass",
+     "title": {
+      "en": "Night Roses in Cobalt Glass",
+      "ar": "ورود ليلية في زجاج كوبالت"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/roses/midnight-roses-blue-glass.jpg",
+     "hd_bytes": 349734,
+     "uhd": "art/roses/4k/midnight-roses-blue-glass.jpg",
+     "uhd_bytes": 637056,
+     "thumb": "art/roses/thumb/midnight-roses-blue-glass.jpg"
+    }
+   ]
+  },
+  {
+   "id": "gardens",
+   "name": {
+    "en": "Gardens & Courtyards",
+    "ar": "حدائق وأفنية"
+   },
+   "cover": "art/gardens/alhambra-reflecting-pool.jpg",
+   "order": 3,
+   "items": [
+    {
+     "id": "alhambra-reflecting-pool",
+     "title": {
+      "en": "Courtyard of the Reflecting Pool",
+      "ar": "فناء البركة العاكسة"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/gardens/alhambra-reflecting-pool.jpg",
+     "hd_bytes": 498479,
+     "uhd": "art/gardens/4k/alhambra-reflecting-pool.jpg",
+     "uhd_bytes": 902710,
+     "thumb": "art/gardens/thumb/alhambra-reflecting-pool.jpg"
+    },
+    {
+     "id": "persian-chahar-bagh",
+     "title": {
+      "en": "Persian Garden with Four Channels",
+      "ar": "حديقة فارسية بأربع قنوات"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/gardens/persian-chahar-bagh.jpg",
+     "hd_bytes": 610289,
+     "uhd": "art/gardens/4k/persian-chahar-bagh.jpg",
+     "uhd_bytes": 1103881,
+     "thumb": "art/gardens/thumb/persian-chahar-bagh.jpg"
+    }
+   ]
+  }
+ ]
+}
