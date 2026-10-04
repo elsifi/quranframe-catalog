@@ -1,0 +1,76 @@
+{
+ "id": "shadow-box-white",
+ "name": {
+  "en": "White Shadow Box",
+  "ar": "صندوق أبيض عميق"
+ },
+ "kind": "modern",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "art": {
+  "width": 3840,
+  "height": 2160
+ },
+ "insets": {
+  "top": 128,
+  "right": 128,
+  "bottom": 128,
+  "left": 128
+ },
+ "band": 0.0593,
+ "raw_band": 0.0593,
+ "normalised": false,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "mirror",
+    "length": 3584,
+    "segments": [
+     896,
+     2688
+    ],
+    "note": "uniform profile (u=0.001), mirror keeps both joins native"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "mirror",
+    "length": 3584,
+    "segments": [
+     896,
+     2688
+    ],
+    "note": "uniform profile (u=0.002), mirror keeps both joins native"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 1904,
+    "segments": [
+     476,
+     1428
+    ],
+    "note": "uniform profile (u=0.000), mirror keeps both joins native"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 1904,
+    "segments": [
+     476,
+     1428
+    ],
+    "note": "uniform profile (u=0.001), mirror keeps both joins native"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

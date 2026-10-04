@@ -1,0 +1,68 @@
+{
+ "id": "arabesque-gold",
+ "name": {
+  "en": "Arabesque Gold",
+  "ar": "أرابيسك ذهبي"
+ },
+ "kind": "ornate",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "insets": {
+  "top": 259,
+  "right": 261,
+  "bottom": 257,
+  "left": 261
+ },
+ "band": 0.1201,
+ "raw_band": 0.2987,
+ "normalised": true,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "mirror",
+    "length": 3449,
+    "segments": [
+     862,
+     2587
+    ],
+    "note": "no clean repeat (u=0.207)"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "repeat",
+    "length": 302,
+    "note": "period 302px (err=0.199, far-join 1.47)"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 1644,
+    "segments": [
+     411,
+     1233
+    ],
+    "note": "no clean repeat (u=0.179)"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 1644,
+    "segments": [
+     411,
+     1233
+    ],
+    "note": "no clean repeat (u=0.178)"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

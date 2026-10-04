@@ -1,6 +1,6 @@
 {
- "version": 2,
- "updated": "2026-10-04T10:04:44Z",
+ "version": 3,
+ "updated": "2026-10-04T10:30:34Z",
  "collections": [
   {
    "id": "roses",
@@ -908,6 +908,661 @@
      "uhd": "art/islamic/4k/gold-lapis-geometric.jpg",
      "uhd_bytes": 1220281,
      "thumb": "art/islamic/thumb/gold-lapis-geometric.jpg"
+    }
+   ]
+  }
+ ],
+ "frame_packs": [
+  {
+   "id": "gilded",
+   "name": {
+    "en": "Gilded",
+    "ar": "مذهّبة"
+   },
+   "order": 0,
+   "cover": "frames/rococo-roses-gold/thumb.jpg",
+   "frames": [
+    {
+     "id": "rococo-roses-gold",
+     "name": {
+      "en": "Rococo Roses",
+      "ar": "روكوكو بالورود"
+     },
+     "thumb": "frames/rococo-roses-gold/thumb.jpg",
+     "files": {
+      "frame.json": "frames/rococo-roses-gold/frame.json",
+      "corner_tl.png": "frames/rococo-roses-gold/corner_tl.png",
+      "corner_tr.png": "frames/rococo-roses-gold/corner_tr.png",
+      "corner_bl.png": "frames/rococo-roses-gold/corner_bl.png",
+      "corner_br.png": "frames/rococo-roses-gold/corner_br.png",
+      "edge_top.png": "frames/rococo-roses-gold/edge_top.png",
+      "edge_bottom.png": "frames/rococo-roses-gold/edge_bottom.png",
+      "edge_left.png": "frames/rococo-roses-gold/edge_left.png",
+      "edge_right.png": "frames/rococo-roses-gold/edge_right.png"
+     },
+     "bytes": 3155050
+    },
+    {
+     "id": "baroque-gold",
+     "name": {
+      "en": "Baroque Gold",
+      "ar": "ذهبي باروكي"
+     },
+     "thumb": "frames/baroque-gold/thumb.jpg",
+     "files": {
+      "frame.json": "frames/baroque-gold/frame.json",
+      "corner_tl.png": "frames/baroque-gold/corner_tl.png",
+      "corner_tr.png": "frames/baroque-gold/corner_tr.png",
+      "corner_bl.png": "frames/baroque-gold/corner_bl.png",
+      "corner_br.png": "frames/baroque-gold/corner_br.png",
+      "edge_top.png": "frames/baroque-gold/edge_top.png",
+      "edge_bottom.png": "frames/baroque-gold/edge_bottom.png",
+      "edge_left.png": "frames/baroque-gold/edge_left.png",
+      "edge_right.png": "frames/baroque-gold/edge_right.png"
+     },
+     "bytes": 2269421
+    },
+    {
+     "id": "louis-gold",
+     "name": {
+      "en": "Louis XV Gold",
+      "ar": "ذهبي لويس الخامس عشر"
+     },
+     "thumb": "frames/louis-gold/thumb.jpg",
+     "files": {
+      "frame.json": "frames/louis-gold/frame.json",
+      "corner_tl.png": "frames/louis-gold/corner_tl.png",
+      "corner_tr.png": "frames/louis-gold/corner_tr.png",
+      "corner_bl.png": "frames/louis-gold/corner_bl.png",
+      "corner_br.png": "frames/louis-gold/corner_br.png",
+      "edge_top.png": "frames/louis-gold/edge_top.png",
+      "edge_bottom.png": "frames/louis-gold/edge_bottom.png",
+      "edge_left.png": "frames/louis-gold/edge_left.png",
+      "edge_right.png": "frames/louis-gold/edge_right.png"
+     },
+     "bytes": 4427271
+    },
+    {
+     "id": "gold-roses",
+     "name": {
+      "en": "Gold Roses",
+      "ar": "ورود ذهبية"
+     },
+     "thumb": "frames/gold-roses/thumb.jpg",
+     "files": {
+      "frame.json": "frames/gold-roses/frame.json",
+      "corner_tl.png": "frames/gold-roses/corner_tl.png",
+      "corner_tr.png": "frames/gold-roses/corner_tr.png",
+      "corner_bl.png": "frames/gold-roses/corner_bl.png",
+      "corner_br.png": "frames/gold-roses/corner_br.png",
+      "edge_top.png": "frames/gold-roses/edge_top.png",
+      "edge_bottom.png": "frames/gold-roses/edge_bottom.png",
+      "edge_left.png": "frames/gold-roses/edge_left.png",
+      "edge_right.png": "frames/gold-roses/edge_right.png"
+     },
+     "bytes": 3476992
+    },
+    {
+     "id": "white-roses",
+     "name": {
+      "en": "White Roses",
+      "ar": "ورود بيضاء"
+     },
+     "thumb": "frames/white-roses/thumb.jpg",
+     "files": {
+      "frame.json": "frames/white-roses/frame.json",
+      "corner_tl.png": "frames/white-roses/corner_tl.png",
+      "corner_tr.png": "frames/white-roses/corner_tr.png",
+      "corner_bl.png": "frames/white-roses/corner_bl.png",
+      "corner_br.png": "frames/white-roses/corner_br.png",
+      "edge_top.png": "frames/white-roses/edge_top.png",
+      "edge_bottom.png": "frames/white-roses/edge_bottom.png",
+      "edge_left.png": "frames/white-roses/edge_left.png",
+      "edge_right.png": "frames/white-roses/edge_right.png"
+     },
+     "bytes": 4063752
+    },
+    {
+     "id": "antique-silver",
+     "name": {
+      "en": "Antique Silver",
+      "ar": "فضي عتيق"
+     },
+     "thumb": "frames/antique-silver/thumb.jpg",
+     "files": {
+      "frame.json": "frames/antique-silver/frame.json",
+      "corner_tl.png": "frames/antique-silver/corner_tl.png",
+      "corner_tr.png": "frames/antique-silver/corner_tr.png",
+      "corner_bl.png": "frames/antique-silver/corner_bl.png",
+      "corner_br.png": "frames/antique-silver/corner_br.png",
+      "edge_top.png": "frames/antique-silver/edge_top.png",
+      "edge_bottom.png": "frames/antique-silver/edge_bottom.png",
+      "edge_left.png": "frames/antique-silver/edge_left.png",
+      "edge_right.png": "frames/antique-silver/edge_right.png"
+     },
+     "bytes": 3318993
+    },
+    {
+     "id": "florentine-gold",
+     "name": {
+      "en": "Florentine Gold",
+      "ar": "ذهبي فلورنسي"
+     },
+     "thumb": "frames/florentine-gold/thumb.jpg",
+     "files": {
+      "frame.json": "frames/florentine-gold/frame.json",
+      "corner_tl.png": "frames/florentine-gold/corner_tl.png",
+      "corner_tr.png": "frames/florentine-gold/corner_tr.png",
+      "corner_bl.png": "frames/florentine-gold/corner_bl.png",
+      "corner_br.png": "frames/florentine-gold/corner_br.png",
+      "edge_top.png": "frames/florentine-gold/edge_top.png",
+      "edge_bottom.png": "frames/florentine-gold/edge_bottom.png",
+      "edge_left.png": "frames/florentine-gold/edge_left.png",
+      "edge_right.png": "frames/florentine-gold/edge_right.png"
+     },
+     "bytes": 2735708
+    },
+    {
+     "id": "flat-gilt",
+     "name": {
+      "en": "Flat Gilt",
+      "ar": "ذهبي مسطّح"
+     },
+     "thumb": "frames/flat-gilt/thumb.jpg",
+     "files": {
+      "frame.json": "frames/flat-gilt/frame.json",
+      "corner_tl.png": "frames/flat-gilt/corner_tl.png",
+      "corner_tr.png": "frames/flat-gilt/corner_tr.png",
+      "corner_bl.png": "frames/flat-gilt/corner_bl.png",
+      "corner_br.png": "frames/flat-gilt/corner_br.png",
+      "edge_top.png": "frames/flat-gilt/edge_top.png",
+      "edge_bottom.png": "frames/flat-gilt/edge_bottom.png",
+      "edge_left.png": "frames/flat-gilt/edge_left.png",
+      "edge_right.png": "frames/flat-gilt/edge_right.png"
+     },
+     "bytes": 1577986
+    }
+   ]
+  },
+  {
+   "id": "modern",
+   "name": {
+    "en": "Modern",
+    "ar": "عصرية"
+   },
+   "order": 1,
+   "cover": "frames/gallery-black-mat/thumb.jpg",
+   "frames": [
+    {
+     "id": "gallery-black-mat",
+     "name": {
+      "en": "Gallery Black",
+      "ar": "أسود المعرض"
+     },
+     "thumb": "frames/gallery-black-mat/thumb.jpg",
+     "files": {
+      "frame.json": "frames/gallery-black-mat/frame.json",
+      "corner_tl.png": "frames/gallery-black-mat/corner_tl.png",
+      "corner_tr.png": "frames/gallery-black-mat/corner_tr.png",
+      "corner_bl.png": "frames/gallery-black-mat/corner_bl.png",
+      "corner_br.png": "frames/gallery-black-mat/corner_br.png",
+      "edge_top.png": "frames/gallery-black-mat/edge_top.png",
+      "edge_bottom.png": "frames/gallery-black-mat/edge_bottom.png",
+      "edge_left.png": "frames/gallery-black-mat/edge_left.png",
+      "edge_right.png": "frames/gallery-black-mat/edge_right.png"
+     },
+     "bytes": 1595547
+    },
+    {
+     "id": "black-floater",
+     "name": {
+      "en": "Black Floater",
+      "ar": "إطار أسود عائم"
+     },
+     "thumb": "frames/black-floater/thumb.jpg",
+     "files": {
+      "frame.json": "frames/black-floater/frame.json",
+      "corner_tl.png": "frames/black-floater/corner_tl.png",
+      "corner_tr.png": "frames/black-floater/corner_tr.png",
+      "corner_bl.png": "frames/black-floater/corner_bl.png",
+      "corner_br.png": "frames/black-floater/corner_br.png",
+      "edge_top.png": "frames/black-floater/edge_top.png",
+      "edge_bottom.png": "frames/black-floater/edge_bottom.png",
+      "edge_left.png": "frames/black-floater/edge_left.png",
+      "edge_right.png": "frames/black-floater/edge_right.png"
+     },
+     "bytes": 352709
+    },
+    {
+     "id": "black-lacquer-gold",
+     "name": {
+      "en": "Black Lacquer & Gold",
+      "ar": "ورنيش أسود وذهبي"
+     },
+     "thumb": "frames/black-lacquer-gold/thumb.jpg",
+     "files": {
+      "frame.json": "frames/black-lacquer-gold/frame.json",
+      "corner_tl.png": "frames/black-lacquer-gold/corner_tl.png",
+      "corner_tr.png": "frames/black-lacquer-gold/corner_tr.png",
+      "corner_bl.png": "frames/black-lacquer-gold/corner_bl.png",
+      "corner_br.png": "frames/black-lacquer-gold/corner_br.png",
+      "edge_top.png": "frames/black-lacquer-gold/edge_top.png",
+      "edge_bottom.png": "frames/black-lacquer-gold/edge_bottom.png",
+      "edge_left.png": "frames/black-lacquer-gold/edge_left.png",
+      "edge_right.png": "frames/black-lacquer-gold/edge_right.png"
+     },
+     "bytes": 654560
+    },
+    {
+     "id": "white-lacquer-mat",
+     "name": {
+      "en": "White Gallery",
+      "ar": "المعرض الأبيض"
+     },
+     "thumb": "frames/white-lacquer-mat/thumb.jpg",
+     "files": {
+      "frame.json": "frames/white-lacquer-mat/frame.json",
+      "corner_tl.png": "frames/white-lacquer-mat/corner_tl.png",
+      "corner_tr.png": "frames/white-lacquer-mat/corner_tr.png",
+      "corner_bl.png": "frames/white-lacquer-mat/corner_bl.png",
+      "corner_br.png": "frames/white-lacquer-mat/corner_br.png",
+      "edge_top.png": "frames/white-lacquer-mat/edge_top.png",
+      "edge_bottom.png": "frames/white-lacquer-mat/edge_bottom.png",
+      "edge_left.png": "frames/white-lacquer-mat/edge_left.png",
+      "edge_right.png": "frames/white-lacquer-mat/edge_right.png"
+     },
+     "bytes": 1655184
+    },
+    {
+     "id": "ivory-hairline",
+     "name": {
+      "en": "Ivory & Hairline",
+      "ar": "عاجي بخط ذهبي"
+     },
+     "thumb": "frames/ivory-hairline/thumb.jpg",
+     "files": {
+      "frame.json": "frames/ivory-hairline/frame.json",
+      "corner_tl.png": "frames/ivory-hairline/corner_tl.png",
+      "corner_tr.png": "frames/ivory-hairline/corner_tr.png",
+      "corner_bl.png": "frames/ivory-hairline/corner_bl.png",
+      "corner_br.png": "frames/ivory-hairline/corner_br.png",
+      "edge_top.png": "frames/ivory-hairline/edge_top.png",
+      "edge_bottom.png": "frames/ivory-hairline/edge_bottom.png",
+      "edge_left.png": "frames/ivory-hairline/edge_left.png",
+      "edge_right.png": "frames/ivory-hairline/edge_right.png"
+     },
+     "bytes": 791863
+    },
+    {
+     "id": "oak-slim-mat",
+     "name": {
+      "en": "Natural Oak",
+      "ar": "خشب البلوط"
+     },
+     "thumb": "frames/oak-slim-mat/thumb.jpg",
+     "files": {
+      "frame.json": "frames/oak-slim-mat/frame.json",
+      "corner_tl.png": "frames/oak-slim-mat/corner_tl.png",
+      "corner_tr.png": "frames/oak-slim-mat/corner_tr.png",
+      "corner_bl.png": "frames/oak-slim-mat/corner_bl.png",
+      "corner_br.png": "frames/oak-slim-mat/corner_br.png",
+      "edge_top.png": "frames/oak-slim-mat/edge_top.png",
+      "edge_bottom.png": "frames/oak-slim-mat/edge_bottom.png",
+      "edge_left.png": "frames/oak-slim-mat/edge_left.png",
+      "edge_right.png": "frames/oak-slim-mat/edge_right.png"
+     },
+     "bytes": 1781126
+    },
+    {
+     "id": "walnut-slim-blackmat",
+     "name": {
+      "en": "Walnut & Black",
+      "ar": "جوز وأسود"
+     },
+     "thumb": "frames/walnut-slim-blackmat/thumb.jpg",
+     "files": {
+      "frame.json": "frames/walnut-slim-blackmat/frame.json",
+      "corner_tl.png": "frames/walnut-slim-blackmat/corner_tl.png",
+      "corner_tr.png": "frames/walnut-slim-blackmat/corner_tr.png",
+      "corner_bl.png": "frames/walnut-slim-blackmat/corner_bl.png",
+      "corner_br.png": "frames/walnut-slim-blackmat/corner_br.png",
+      "edge_top.png": "frames/walnut-slim-blackmat/edge_top.png",
+      "edge_bottom.png": "frames/walnut-slim-blackmat/edge_bottom.png",
+      "edge_left.png": "frames/walnut-slim-blackmat/edge_left.png",
+      "edge_right.png": "frames/walnut-slim-blackmat/edge_right.png"
+     },
+     "bytes": 1391886
+    },
+    {
+     "id": "charcoal-greymat",
+     "name": {
+      "en": "Charcoal & Grey",
+      "ar": "فحمي ورمادي"
+     },
+     "thumb": "frames/charcoal-greymat/thumb.jpg",
+     "files": {
+      "frame.json": "frames/charcoal-greymat/frame.json",
+      "corner_tl.png": "frames/charcoal-greymat/corner_tl.png",
+      "corner_tr.png": "frames/charcoal-greymat/corner_tr.png",
+      "corner_bl.png": "frames/charcoal-greymat/corner_bl.png",
+      "corner_br.png": "frames/charcoal-greymat/corner_br.png",
+      "edge_top.png": "frames/charcoal-greymat/edge_top.png",
+      "edge_bottom.png": "frames/charcoal-greymat/edge_bottom.png",
+      "edge_left.png": "frames/charcoal-greymat/edge_left.png",
+      "edge_right.png": "frames/charcoal-greymat/edge_right.png"
+     },
+     "bytes": 1569607
+    },
+    {
+     "id": "ash-white-mat",
+     "name": {
+      "en": "Light Ash",
+      "ar": "خشب الدردار"
+     },
+     "thumb": "frames/ash-white-mat/thumb.jpg",
+     "files": {
+      "frame.json": "frames/ash-white-mat/frame.json",
+      "corner_tl.png": "frames/ash-white-mat/corner_tl.png",
+      "corner_tr.png": "frames/ash-white-mat/corner_tr.png",
+      "corner_bl.png": "frames/ash-white-mat/corner_bl.png",
+      "corner_br.png": "frames/ash-white-mat/corner_br.png",
+      "edge_top.png": "frames/ash-white-mat/edge_top.png",
+      "edge_bottom.png": "frames/ash-white-mat/edge_bottom.png",
+      "edge_left.png": "frames/ash-white-mat/edge_left.png",
+      "edge_right.png": "frames/ash-white-mat/edge_right.png"
+     },
+     "bytes": 1651240
+    },
+    {
+     "id": "navy-lacquer-gold",
+     "name": {
+      "en": "Navy & Gold",
+      "ar": "كحلي وذهبي"
+     },
+     "thumb": "frames/navy-lacquer-gold/thumb.jpg",
+     "files": {
+      "frame.json": "frames/navy-lacquer-gold/frame.json",
+      "corner_tl.png": "frames/navy-lacquer-gold/corner_tl.png",
+      "corner_tr.png": "frames/navy-lacquer-gold/corner_tr.png",
+      "corner_bl.png": "frames/navy-lacquer-gold/corner_bl.png",
+      "corner_br.png": "frames/navy-lacquer-gold/corner_br.png",
+      "edge_top.png": "frames/navy-lacquer-gold/edge_top.png",
+      "edge_bottom.png": "frames/navy-lacquer-gold/edge_bottom.png",
+      "edge_left.png": "frames/navy-lacquer-gold/edge_left.png",
+      "edge_right.png": "frames/navy-lacquer-gold/edge_right.png"
+     },
+     "bytes": 810884
+    },
+    {
+     "id": "burgundy-lacquer-gold",
+     "name": {
+      "en": "Burgundy & Gold",
+      "ar": "عنابي وذهبي"
+     },
+     "thumb": "frames/burgundy-lacquer-gold/thumb.jpg",
+     "files": {
+      "frame.json": "frames/burgundy-lacquer-gold/frame.json",
+      "corner_tl.png": "frames/burgundy-lacquer-gold/corner_tl.png",
+      "corner_tr.png": "frames/burgundy-lacquer-gold/corner_tr.png",
+      "corner_bl.png": "frames/burgundy-lacquer-gold/corner_bl.png",
+      "corner_br.png": "frames/burgundy-lacquer-gold/corner_br.png",
+      "edge_top.png": "frames/burgundy-lacquer-gold/edge_top.png",
+      "edge_bottom.png": "frames/burgundy-lacquer-gold/edge_bottom.png",
+      "edge_left.png": "frames/burgundy-lacquer-gold/edge_left.png",
+      "edge_right.png": "frames/burgundy-lacquer-gold/edge_right.png"
+     },
+     "bytes": 814977
+    },
+    {
+     "id": "linen-liner-walnut",
+     "name": {
+      "en": "Walnut & Linen",
+      "ar": "جوز وكتان"
+     },
+     "thumb": "frames/linen-liner-walnut/thumb.jpg",
+     "files": {
+      "frame.json": "frames/linen-liner-walnut/frame.json",
+      "corner_tl.png": "frames/linen-liner-walnut/corner_tl.png",
+      "corner_tr.png": "frames/linen-liner-walnut/corner_tr.png",
+      "corner_bl.png": "frames/linen-liner-walnut/corner_bl.png",
+      "corner_br.png": "frames/linen-liner-walnut/corner_br.png",
+      "edge_top.png": "frames/linen-liner-walnut/edge_top.png",
+      "edge_bottom.png": "frames/linen-liner-walnut/edge_bottom.png",
+      "edge_left.png": "frames/linen-liner-walnut/edge_left.png",
+      "edge_right.png": "frames/linen-liner-walnut/edge_right.png"
+     },
+     "bytes": 2344838
+    },
+    {
+     "id": "double-mat-black",
+     "name": {
+      "en": "Double Mat",
+      "ar": "إطار بحاشيتين"
+     },
+     "thumb": "frames/double-mat-black/thumb.jpg",
+     "files": {
+      "frame.json": "frames/double-mat-black/frame.json",
+      "corner_tl.png": "frames/double-mat-black/corner_tl.png",
+      "corner_tr.png": "frames/double-mat-black/corner_tr.png",
+      "corner_bl.png": "frames/double-mat-black/corner_bl.png",
+      "corner_br.png": "frames/double-mat-black/corner_br.png",
+      "edge_top.png": "frames/double-mat-black/edge_top.png",
+      "edge_bottom.png": "frames/double-mat-black/edge_bottom.png",
+      "edge_left.png": "frames/double-mat-black/edge_left.png",
+      "edge_right.png": "frames/double-mat-black/edge_right.png"
+     },
+     "bytes": 1650014
+    },
+    {
+     "id": "shadow-box-white",
+     "name": {
+      "en": "White Shadow Box",
+      "ar": "صندوق أبيض عميق"
+     },
+     "thumb": "frames/shadow-box-white/thumb.jpg",
+     "files": {
+      "frame.json": "frames/shadow-box-white/frame.json",
+      "corner_tl.png": "frames/shadow-box-white/corner_tl.png",
+      "corner_tr.png": "frames/shadow-box-white/corner_tr.png",
+      "corner_bl.png": "frames/shadow-box-white/corner_bl.png",
+      "corner_br.png": "frames/shadow-box-white/corner_br.png",
+      "edge_top.png": "frames/shadow-box-white/edge_top.png",
+      "edge_bottom.png": "frames/shadow-box-white/edge_bottom.png",
+      "edge_left.png": "frames/shadow-box-white/edge_left.png",
+      "edge_right.png": "frames/shadow-box-white/edge_right.png"
+     },
+     "bytes": 1228297
+    },
+    {
+     "id": "walnut-classic",
+     "name": {
+      "en": "Classic Walnut",
+      "ar": "جوز كلاسيكي"
+     },
+     "thumb": "frames/walnut-classic/thumb.jpg",
+     "files": {
+      "frame.json": "frames/walnut-classic/frame.json",
+      "corner_tl.png": "frames/walnut-classic/corner_tl.png",
+      "corner_tr.png": "frames/walnut-classic/corner_tr.png",
+      "corner_bl.png": "frames/walnut-classic/corner_bl.png",
+      "corner_br.png": "frames/walnut-classic/corner_br.png",
+      "edge_top.png": "frames/walnut-classic/edge_top.png",
+      "edge_bottom.png": "frames/walnut-classic/edge_bottom.png",
+      "edge_left.png": "frames/walnut-classic/edge_left.png",
+      "edge_right.png": "frames/walnut-classic/edge_right.png"
+     },
+     "bytes": 550377
+    }
+   ]
+  },
+  {
+   "id": "middle-eastern",
+   "name": {
+    "en": "Middle Eastern",
+    "ar": "شرقية"
+   },
+   "order": 2,
+   "cover": "frames/arabesque-gold/thumb.jpg",
+   "frames": [
+    {
+     "id": "arabesque-gold",
+     "name": {
+      "en": "Arabesque Gold",
+      "ar": "أرابيسك ذهبي"
+     },
+     "thumb": "frames/arabesque-gold/thumb.jpg",
+     "files": {
+      "frame.json": "frames/arabesque-gold/frame.json",
+      "corner_tl.png": "frames/arabesque-gold/corner_tl.png",
+      "corner_tr.png": "frames/arabesque-gold/corner_tr.png",
+      "corner_bl.png": "frames/arabesque-gold/corner_bl.png",
+      "corner_br.png": "frames/arabesque-gold/corner_br.png",
+      "edge_top.png": "frames/arabesque-gold/edge_top.png",
+      "edge_bottom.png": "frames/arabesque-gold/edge_bottom.png",
+      "edge_left.png": "frames/arabesque-gold/edge_left.png",
+      "edge_right.png": "frames/arabesque-gold/edge_right.png"
+     },
+     "bytes": 3311117
+    },
+    {
+     "id": "damascene-inlay",
+     "name": {
+      "en": "Damascene Inlay",
+      "ar": "تطعيم دمشقي بالصدف"
+     },
+     "thumb": "frames/damascene-inlay/thumb.jpg",
+     "files": {
+      "frame.json": "frames/damascene-inlay/frame.json",
+      "corner_tl.png": "frames/damascene-inlay/corner_tl.png",
+      "corner_tr.png": "frames/damascene-inlay/corner_tr.png",
+      "corner_bl.png": "frames/damascene-inlay/corner_bl.png",
+      "corner_br.png": "frames/damascene-inlay/corner_br.png",
+      "edge_top.png": "frames/damascene-inlay/edge_top.png",
+      "edge_bottom.png": "frames/damascene-inlay/edge_bottom.png",
+      "edge_left.png": "frames/damascene-inlay/edge_left.png",
+      "edge_right.png": "frames/damascene-inlay/edge_right.png"
+     },
+     "bytes": 1349140
+    },
+    {
+     "id": "khatam-inlay",
+     "name": {
+      "en": "Khatam Inlay",
+      "ar": "ترصيع الخاتم"
+     },
+     "thumb": "frames/khatam-inlay/thumb.jpg",
+     "files": {
+      "frame.json": "frames/khatam-inlay/frame.json",
+      "corner_tl.png": "frames/khatam-inlay/corner_tl.png",
+      "corner_tr.png": "frames/khatam-inlay/corner_tr.png",
+      "corner_bl.png": "frames/khatam-inlay/corner_bl.png",
+      "corner_br.png": "frames/khatam-inlay/corner_br.png",
+      "edge_top.png": "frames/khatam-inlay/edge_top.png",
+      "edge_bottom.png": "frames/khatam-inlay/edge_bottom.png",
+      "edge_left.png": "frames/khatam-inlay/edge_left.png",
+      "edge_right.png": "frames/khatam-inlay/edge_right.png"
+     },
+     "bytes": 383223
+    },
+    {
+     "id": "zellige-border",
+     "name": {
+      "en": "Zellige Border",
+      "ar": "إطار الزليج"
+     },
+     "thumb": "frames/zellige-border/thumb.jpg",
+     "files": {
+      "frame.json": "frames/zellige-border/frame.json",
+      "corner_tl.png": "frames/zellige-border/corner_tl.png",
+      "corner_tr.png": "frames/zellige-border/corner_tr.png",
+      "corner_bl.png": "frames/zellige-border/corner_bl.png",
+      "corner_br.png": "frames/zellige-border/corner_br.png",
+      "edge_top.png": "frames/zellige-border/edge_top.png",
+      "edge_bottom.png": "frames/zellige-border/edge_bottom.png",
+      "edge_left.png": "frames/zellige-border/edge_left.png",
+      "edge_right.png": "frames/zellige-border/edge_right.png"
+     },
+     "bytes": 499834
+    },
+    {
+     "id": "plaster-arabesque",
+     "name": {
+      "en": "Plaster Arabesque",
+      "ar": "جص بالأرابيسك"
+     },
+     "thumb": "frames/plaster-arabesque/thumb.jpg",
+     "files": {
+      "frame.json": "frames/plaster-arabesque/frame.json",
+      "corner_tl.png": "frames/plaster-arabesque/corner_tl.png",
+      "corner_tr.png": "frames/plaster-arabesque/corner_tr.png",
+      "corner_bl.png": "frames/plaster-arabesque/corner_bl.png",
+      "corner_br.png": "frames/plaster-arabesque/corner_br.png",
+      "edge_top.png": "frames/plaster-arabesque/edge_top.png",
+      "edge_bottom.png": "frames/plaster-arabesque/edge_bottom.png",
+      "edge_left.png": "frames/plaster-arabesque/edge_left.png",
+      "edge_right.png": "frames/plaster-arabesque/edge_right.png"
+     },
+     "bytes": 1254140
+    },
+    {
+     "id": "mashrabiya",
+     "name": {
+      "en": "Mashrabiya",
+      "ar": "مشربية"
+     },
+     "thumb": "frames/mashrabiya/thumb.jpg",
+     "files": {
+      "frame.json": "frames/mashrabiya/frame.json",
+      "corner_tl.png": "frames/mashrabiya/corner_tl.png",
+      "corner_tr.png": "frames/mashrabiya/corner_tr.png",
+      "corner_bl.png": "frames/mashrabiya/corner_bl.png",
+      "corner_br.png": "frames/mashrabiya/corner_br.png",
+      "edge_top.png": "frames/mashrabiya/edge_top.png",
+      "edge_bottom.png": "frames/mashrabiya/edge_bottom.png",
+      "edge_left.png": "frames/mashrabiya/edge_left.png",
+      "edge_right.png": "frames/mashrabiya/edge_right.png"
+     },
+     "bytes": 1350149
+    },
+    {
+     "id": "ebony-pearl",
+     "name": {
+      "en": "Ebony & Pearl",
+      "ar": "أبنوس وصدف"
+     },
+     "thumb": "frames/ebony-pearl/thumb.jpg",
+     "files": {
+      "frame.json": "frames/ebony-pearl/frame.json",
+      "corner_tl.png": "frames/ebony-pearl/corner_tl.png",
+      "corner_tr.png": "frames/ebony-pearl/corner_tr.png",
+      "corner_bl.png": "frames/ebony-pearl/corner_bl.png",
+      "corner_br.png": "frames/ebony-pearl/corner_br.png",
+      "edge_top.png": "frames/ebony-pearl/edge_top.png",
+      "edge_bottom.png": "frames/ebony-pearl/edge_bottom.png",
+      "edge_left.png": "frames/ebony-pearl/edge_left.png",
+      "edge_right.png": "frames/ebony-pearl/edge_right.png"
+     },
+     "bytes": 1611054
+    },
+    {
+     "id": "sandstone-star",
+     "name": {
+      "en": "Sandstone Star",
+      "ar": "حجر رملي نجمي"
+     },
+     "thumb": "frames/sandstone-star/thumb.jpg",
+     "files": {
+      "frame.json": "frames/sandstone-star/frame.json",
+      "corner_tl.png": "frames/sandstone-star/corner_tl.png",
+      "corner_tr.png": "frames/sandstone-star/corner_tr.png",
+      "corner_bl.png": "frames/sandstone-star/corner_bl.png",
+      "corner_br.png": "frames/sandstone-star/corner_br.png",
+      "edge_top.png": "frames/sandstone-star/edge_top.png",
+      "edge_bottom.png": "frames/sandstone-star/edge_bottom.png",
+      "edge_left.png": "frames/sandstone-star/edge_left.png",
+      "edge_right.png": "frames/sandstone-star/edge_right.png"
+     },
+     "bytes": 916207
     }
    ]
   }

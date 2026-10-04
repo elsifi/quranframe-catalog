@@ -1,0 +1,68 @@
+{
+ "id": "sandstone-star",
+ "name": {
+  "en": "Sandstone Star",
+  "ar": "حجر رملي نجمي"
+ },
+ "kind": "ornate",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "art": {
+  "width": 1325,
+  "height": 739
+ },
+ "insets": {
+  "top": 213,
+  "right": 219,
+  "bottom": 212,
+  "left": 219
+ },
+ "band": 0.0999,
+ "raw_band": 0.2922,
+ "normalised": true,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "repeat",
+    "length": 266,
+    "note": "period 266px (err=0.206, far-join 1.32)"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "repeat",
+    "length": 268,
+    "note": "period 268px (err=0.147, far-join 1.20)"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 314,
+    "segments": [
+     38,
+     276
+    ],
+    "note": "no clean repeat (u=0.184)"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 314,
+    "segments": [
+     38,
+     276
+    ],
+    "note": "no clean repeat (u=0.163)"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

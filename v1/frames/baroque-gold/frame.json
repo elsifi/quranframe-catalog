@@ -1,0 +1,72 @@
+{
+ "id": "baroque-gold",
+ "name": {
+  "en": "Baroque Gold",
+  "ar": "ذهبي باروكي"
+ },
+ "kind": "ornate",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "insets": {
+  "top": 221,
+  "right": 213,
+  "bottom": 219,
+  "left": 212
+ },
+ "band": 0.1001,
+ "raw_band": 0.2121,
+ "normalised": true,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "mirror",
+    "length": 1440,
+    "segments": [
+     360,
+     1080
+    ],
+    "note": "no clean repeat (u=0.160)"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "mirror",
+    "length": 1440,
+    "segments": [
+     360,
+     1080
+    ],
+    "note": "no clean repeat (u=0.231)"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 579,
+    "segments": [
+     144,
+     435
+    ],
+    "note": "no clean repeat (u=0.232)"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 579,
+    "segments": [
+     144,
+     435
+    ],
+    "note": "no clean repeat (u=0.239)"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

@@ -1,0 +1,72 @@
+{
+ "id": "walnut-classic",
+ "name": {
+  "en": "Classic Walnut",
+  "ar": "جوز كلاسيكي"
+ },
+ "kind": "classic",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "insets": {
+  "top": 128,
+  "right": 131,
+  "bottom": 128,
+  "left": 131
+ },
+ "band": 0.06,
+ "raw_band": 0.1781,
+ "normalised": true,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "mirror",
+    "length": 1041,
+    "segments": [
+     260,
+     781
+    ],
+    "note": "uniform profile (u=0.008), mirror keeps both joins native"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "mirror",
+    "length": 1041,
+    "segments": [
+     260,
+     781
+    ],
+    "note": "uniform profile (u=0.008), mirror keeps both joins native"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 472,
+    "segments": [
+     118,
+     354
+    ],
+    "note": "uniform profile (u=0.003), mirror keeps both joins native"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 472,
+    "segments": [
+     118,
+     354
+    ],
+    "note": "uniform profile (u=0.003), mirror keeps both joins native"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

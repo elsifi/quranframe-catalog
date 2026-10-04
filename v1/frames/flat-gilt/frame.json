@@ -1,0 +1,76 @@
+{
+ "id": "flat-gilt",
+ "name": {
+  "en": "Flat Gilt",
+  "ar": "ذهبي مسطّح"
+ },
+ "kind": "modern",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "art": {
+  "width": 3840,
+  "height": 2160
+ },
+ "insets": {
+  "top": 149,
+  "right": 149,
+  "bottom": 149,
+  "left": 149
+ },
+ "band": 0.069,
+ "raw_band": 0.069,
+ "normalised": false,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "mirror",
+    "length": 3542,
+    "segments": [
+     885,
+     2657
+    ],
+    "note": "uniform profile (u=0.009), mirror keeps both joins native"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "mirror",
+    "length": 3542,
+    "segments": [
+     885,
+     2657
+    ],
+    "note": "uniform profile (u=0.008), mirror keeps both joins native"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 1862,
+    "segments": [
+     465,
+     1397
+    ],
+    "note": "uniform profile (u=0.002), mirror keeps both joins native"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 1862,
+    "segments": [
+     465,
+     1397
+    ],
+    "note": "uniform profile (u=0.003), mirror keeps both joins native"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

@@ -1,0 +1,72 @@
+{
+ "id": "gold-roses",
+ "name": {
+  "en": "Gold Roses",
+  "ar": "ورود ذهبية"
+ },
+ "kind": "ornate",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "insets": {
+  "top": 256,
+  "right": 263,
+  "bottom": 255,
+  "left": 263
+ },
+ "band": 0.12,
+ "raw_band": 0.2149,
+ "normalised": true,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "mirror",
+    "length": 3315,
+    "segments": [
+     828,
+     2487
+    ],
+    "note": "no clean repeat (u=0.141)"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "mirror",
+    "length": 3315,
+    "segments": [
+     828,
+     2487
+    ],
+    "note": "no clean repeat (u=0.129)"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 1649,
+    "segments": [
+     412,
+     1237
+    ],
+    "note": "period 36px but far-corner join 3.75x typical"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 1649,
+    "segments": [
+     412,
+     1237
+    ],
+    "note": "period 36px but far-corner join 4.35x typical"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

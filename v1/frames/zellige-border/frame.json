@@ -1,0 +1,60 @@
+{
+ "id": "zellige-border",
+ "name": {
+  "en": "Zellige Border",
+  "ar": "إطار الزليج"
+ },
+ "kind": "modern",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "art": {
+  "width": 3840,
+  "height": 2160
+ },
+ "insets": {
+  "top": 180,
+  "right": 180,
+  "bottom": 180,
+  "left": 180
+ },
+ "band": 0.0833,
+ "raw_band": 0.0833,
+ "normalised": false,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "repeat",
+    "length": 360,
+    "note": "period 120px (err=0.010, far-join 0.31)"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "repeat",
+    "length": 360,
+    "note": "period 120px (err=0.010, far-join 0.36)"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "repeat",
+    "length": 360,
+    "note": "period 120px (err=0.009, far-join 0.31)"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "repeat",
+    "length": 360,
+    "note": "period 120px (err=0.009, far-join 0.34)"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

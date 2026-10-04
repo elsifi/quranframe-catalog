@@ -1,0 +1,76 @@
+{
+ "id": "burgundy-lacquer-gold",
+ "name": {
+  "en": "Burgundy & Gold",
+  "ar": "عنابي وذهبي"
+ },
+ "kind": "modern",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "art": {
+  "width": 3840,
+  "height": 2160
+ },
+ "insets": {
+  "top": 85,
+  "right": 85,
+  "bottom": 85,
+  "left": 85
+ },
+ "band": 0.0394,
+ "raw_band": 0.0394,
+ "normalised": false,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "mirror",
+    "length": 3670,
+    "segments": [
+     917,
+     2753
+    ],
+    "note": "uniform profile (u=0.002), mirror keeps both joins native"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "mirror",
+    "length": 3670,
+    "segments": [
+     917,
+     2753
+    ],
+    "note": "uniform profile (u=0.003), mirror keeps both joins native"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 1990,
+    "segments": [
+     497,
+     1493
+    ],
+    "note": "uniform profile (u=0.002), mirror keeps both joins native"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 1990,
+    "segments": [
+     497,
+     1493
+    ],
+    "note": "uniform profile (u=0.003), mirror keeps both joins native"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

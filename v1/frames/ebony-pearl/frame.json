@@ -1,0 +1,76 @@
+{
+ "id": "ebony-pearl",
+ "name": {
+  "en": "Ebony & Pearl",
+  "ar": "أبنوس وصدف"
+ },
+ "kind": "ornate",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "art": {
+  "width": 1694,
+  "height": 945
+ },
+ "insets": {
+  "top": 212,
+  "right": 219,
+  "bottom": 216,
+  "left": 217
+ },
+ "band": 0.1,
+ "raw_band": 0.2285,
+ "normalised": true,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "mirror",
+    "length": 1258,
+    "segments": [
+     85,
+     1173
+    ],
+    "note": "no clean repeat (u=0.255)"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "mirror",
+    "length": 1258,
+    "segments": [
+     82,
+     1176
+    ],
+    "note": "no clean repeat (u=0.251)"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 517,
+    "segments": [
+     17,
+     500
+    ],
+    "note": "no clean repeat (u=0.223)"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 517,
+    "segments": [
+     18,
+     499
+    ],
+    "note": "no clean repeat (u=0.216)"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

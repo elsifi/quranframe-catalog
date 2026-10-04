@@ -1,0 +1,72 @@
+{
+ "id": "damascene-inlay",
+ "name": {
+  "en": "Damascene Inlay",
+  "ar": "تطعيم دمشقي بالصدف"
+ },
+ "kind": "ornate",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "insets": {
+  "top": 191,
+  "right": 196,
+  "bottom": 193,
+  "left": 197
+ },
+ "band": 0.0899,
+ "raw_band": 0.2414,
+ "normalised": true,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "mirror",
+    "length": 1050,
+    "segments": [
+     262,
+     788
+    ],
+    "note": "no clean repeat (u=0.148)"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "mirror",
+    "length": 1050,
+    "segments": [
+     262,
+     788
+    ],
+    "note": "no clean repeat (u=0.159)"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 421,
+    "segments": [
+     105,
+     316
+    ],
+    "note": "no clean repeat (u=0.110)"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 421,
+    "segments": [
+     105,
+     316
+    ],
+    "note": "no clean repeat (u=0.114)"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

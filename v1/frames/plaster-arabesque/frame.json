@@ -1,0 +1,76 @@
+{
+ "id": "plaster-arabesque",
+ "name": {
+  "en": "Plaster Arabesque",
+  "ar": "جص بالأرابيسك"
+ },
+ "kind": "ornate",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "art": {
+  "width": 1648,
+  "height": 911
+ },
+ "insets": {
+  "top": 204,
+  "right": 229,
+  "bottom": 225,
+  "left": 206
+ },
+ "band": 0.1,
+ "raw_band": 0.237,
+ "normalised": true,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "mirror",
+    "length": 1213,
+    "segments": [
+     108,
+     1105
+    ],
+    "note": "no clean repeat (u=0.226)"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "mirror",
+    "length": 1213,
+    "segments": [
+     62,
+     1151
+    ],
+    "note": "no clean repeat (u=0.345)"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 482,
+    "segments": [
+     57,
+     425
+    ],
+    "note": "no clean repeat (u=0.287)"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 482,
+    "segments": [
+     57,
+     425
+    ],
+    "note": "no clean repeat (u=0.280)"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

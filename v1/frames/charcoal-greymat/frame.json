@@ -1,0 +1,76 @@
+{
+ "id": "charcoal-greymat",
+ "name": {
+  "en": "Charcoal & Grey",
+  "ar": "فحمي ورمادي"
+ },
+ "kind": "modern",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "art": {
+  "width": 3840,
+  "height": 2160
+ },
+ "insets": {
+  "top": 182,
+  "right": 182,
+  "bottom": 182,
+  "left": 182
+ },
+ "band": 0.0843,
+ "raw_band": 0.0843,
+ "normalised": false,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "mirror",
+    "length": 3476,
+    "segments": [
+     869,
+     2607
+    ],
+    "note": "uniform profile (u=0.000), mirror keeps both joins native"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "mirror",
+    "length": 3476,
+    "segments": [
+     869,
+     2607
+    ],
+    "note": "uniform profile (u=0.000), mirror keeps both joins native"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 1796,
+    "segments": [
+     449,
+     1347
+    ],
+    "note": "uniform profile (u=0.000), mirror keeps both joins native"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 1796,
+    "segments": [
+     449,
+     1347
+    ],
+    "note": "uniform profile (u=0.000), mirror keeps both joins native"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

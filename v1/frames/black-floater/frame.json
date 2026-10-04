@@ -1,0 +1,76 @@
+{
+ "id": "black-floater",
+ "name": {
+  "en": "Black Floater",
+  "ar": "إطار أسود عائم"
+ },
+ "kind": "modern",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "art": {
+  "width": 3840,
+  "height": 2160
+ },
+ "insets": {
+  "top": 42,
+  "right": 42,
+  "bottom": 42,
+  "left": 42
+ },
+ "band": 0.0194,
+ "raw_band": 0.0194,
+ "normalised": false,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "mirror",
+    "length": 3756,
+    "segments": [
+     939,
+     2817
+    ],
+    "note": "uniform profile (u=0.003), mirror keeps both joins native"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "mirror",
+    "length": 3756,
+    "segments": [
+     939,
+     2817
+    ],
+    "note": "uniform profile (u=0.005), mirror keeps both joins native"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 2076,
+    "segments": [
+     519,
+     1557
+    ],
+    "note": "uniform profile (u=0.003), mirror keeps both joins native"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 2076,
+    "segments": [
+     519,
+     1557
+    ],
+    "note": "uniform profile (u=0.003), mirror keeps both joins native"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

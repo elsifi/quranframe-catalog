@@ -1,0 +1,72 @@
+{
+ "id": "louis-gold",
+ "name": {
+  "en": "Louis XV Gold",
+  "ar": "ذهبي لويس الخامس عشر"
+ },
+ "kind": "ornate",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "insets": {
+  "top": 256,
+  "right": 262,
+  "bottom": 259,
+  "left": 259
+ },
+ "band": 0.1199,
+ "raw_band": 0.1669,
+ "normalised": true,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "mirror",
+    "length": 3321,
+    "segments": [
+     830,
+     2491
+    ],
+    "note": "period 44px but far-corner join 2.59x typical"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "mirror",
+    "length": 3321,
+    "segments": [
+     830,
+     2491
+    ],
+    "note": "period 42px but far-corner join 2.71x typical"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 1645,
+    "segments": [
+     411,
+     1234
+    ],
+    "note": "no clean repeat (u=0.198)"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 1645,
+    "segments": [
+     411,
+     1234
+    ],
+    "note": "no clean repeat (u=0.207)"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

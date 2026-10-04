@@ -1,0 +1,76 @@
+{
+ "id": "ivory-hairline",
+ "name": {
+  "en": "Ivory & Hairline",
+  "ar": "عاجي بخط ذهبي"
+ },
+ "kind": "modern",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "art": {
+  "width": 3840,
+  "height": 2160
+ },
+ "insets": {
+  "top": 81,
+  "right": 81,
+  "bottom": 81,
+  "left": 81
+ },
+ "band": 0.0375,
+ "raw_band": 0.0375,
+ "normalised": false,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "mirror",
+    "length": 3678,
+    "segments": [
+     919,
+     2759
+    ],
+    "note": "uniform profile (u=0.010), mirror keeps both joins native"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "mirror",
+    "length": 3678,
+    "segments": [
+     919,
+     2759
+    ],
+    "note": "uniform profile (u=0.016), mirror keeps both joins native"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 1998,
+    "segments": [
+     499,
+     1499
+    ],
+    "note": "uniform profile (u=0.008), mirror keeps both joins native"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 1998,
+    "segments": [
+     499,
+     1499
+    ],
+    "note": "uniform profile (u=0.014), mirror keeps both joins native"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

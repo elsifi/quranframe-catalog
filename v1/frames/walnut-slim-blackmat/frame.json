@@ -1,0 +1,76 @@
+{
+ "id": "walnut-slim-blackmat",
+ "name": {
+  "en": "Walnut & Black",
+  "ar": "جوز وأسود"
+ },
+ "kind": "modern",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "art": {
+  "width": 3840,
+  "height": 2160
+ },
+ "insets": {
+  "top": 158,
+  "right": 158,
+  "bottom": 158,
+  "left": 158
+ },
+ "band": 0.0731,
+ "raw_band": 0.0731,
+ "normalised": false,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "mirror",
+    "length": 3524,
+    "segments": [
+     881,
+     2643
+    ],
+    "note": "uniform profile (u=0.012), mirror keeps both joins native"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "mirror",
+    "length": 3524,
+    "segments": [
+     881,
+     2643
+    ],
+    "note": "uniform profile (u=0.013), mirror keeps both joins native"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 1844,
+    "segments": [
+     461,
+     1383
+    ],
+    "note": "uniform profile (u=0.006), mirror keeps both joins native"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 1844,
+    "segments": [
+     461,
+     1383
+    ],
+    "note": "uniform profile (u=0.008), mirror keeps both joins native"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

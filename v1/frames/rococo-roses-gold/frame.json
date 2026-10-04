@@ -1,0 +1,76 @@
+{
+ "id": "rococo-roses-gold",
+ "name": {
+  "en": "Rococo Roses",
+  "ar": "روكوكو بالورود"
+ },
+ "kind": "ornate",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "art": {
+  "width": 2168,
+  "height": 1189
+ },
+ "insets": {
+  "top": 255,
+  "right": 262,
+  "bottom": 264,
+  "left": 256
+ },
+ "band": 0.12,
+ "raw_band": 0.218,
+ "normalised": true,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "mirror",
+    "length": 1650,
+    "segments": [
+     407,
+     1243
+    ],
+    "note": "no clean repeat (u=0.191)"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "mirror",
+    "length": 1650,
+    "segments": [
+     407,
+     1243
+    ],
+    "note": "no clean repeat (u=0.233)"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 670,
+    "segments": [
+     92,
+     578
+    ],
+    "note": "no clean repeat (u=0.227)"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 670,
+    "segments": [
+     92,
+     578
+    ],
+    "note": "no clean repeat (u=0.226)"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

@@ -1,0 +1,60 @@
+{
+ "id": "khatam-inlay",
+ "name": {
+  "en": "Khatam Inlay",
+  "ar": "ترصيع الخاتم"
+ },
+ "kind": "modern",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "art": {
+  "width": 3840,
+  "height": 2160
+ },
+ "insets": {
+  "top": 150,
+  "right": 150,
+  "bottom": 150,
+  "left": 150
+ },
+ "band": 0.0694,
+ "raw_band": 0.0694,
+ "normalised": false,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "repeat",
+    "length": 300,
+    "note": "period 60px (err=0.003, far-join 0.12)"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "repeat",
+    "length": 300,
+    "note": "period 60px (err=0.003, far-join 0.15)"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "repeat",
+    "length": 300,
+    "note": "period 60px (err=0.004, far-join 0.13)"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "repeat",
+    "length": 300,
+    "note": "period 60px (err=0.004, far-join 0.12)"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

@@ -1,0 +1,76 @@
+{
+ "id": "mashrabiya",
+ "name": {
+  "en": "Mashrabiya",
+  "ar": "مشربية"
+ },
+ "kind": "ornate",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "art": {
+  "width": 1553,
+  "height": 867
+ },
+ "insets": {
+  "top": 213,
+  "right": 218,
+  "bottom": 214,
+  "left": 218
+ },
+ "band": 0.0999,
+ "raw_band": 0.2492,
+ "normalised": true,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "mirror",
+    "length": 1117,
+    "segments": [
+     29,
+     1088
+    ],
+    "note": "no clean repeat (u=0.207)"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "mirror",
+    "length": 1117,
+    "segments": [
+     26,
+     1091
+    ],
+    "note": "period 54px but far-corner join 2.08x typical"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 440,
+    "segments": [
+     52,
+     388
+    ],
+    "note": "no clean repeat (u=0.151)"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 440,
+    "segments": [
+     52,
+     388
+    ],
+    "note": "no clean repeat (u=0.136)"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

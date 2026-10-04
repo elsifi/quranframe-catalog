@@ -1,0 +1,76 @@
+{
+ "id": "florentine-gold",
+ "name": {
+  "en": "Florentine Gold",
+  "ar": "ذهبي فلورنسي"
+ },
+ "kind": "ornate",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "art": {
+  "width": 2011,
+  "height": 1122
+ },
+ "insets": {
+  "top": 259,
+  "right": 260,
+  "bottom": 258,
+  "left": 259
+ },
+ "band": 0.1199,
+ "raw_band": 0.231,
+ "normalised": true,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "mirror",
+    "length": 1492,
+    "segments": [
+     251,
+     1241
+    ],
+    "note": "no clean repeat (u=0.379)"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "mirror",
+    "length": 1492,
+    "segments": [
+     291,
+     1201
+    ],
+    "note": "no clean repeat (u=0.398)"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 605,
+    "segments": [
+     43,
+     562
+    ],
+    "note": "no clean repeat (u=0.327)"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 605,
+    "segments": [
+     43,
+     562
+    ],
+    "note": "no clean repeat (u=0.321)"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}

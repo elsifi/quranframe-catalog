@@ -1,0 +1,76 @@
+{
+ "id": "linen-liner-walnut",
+ "name": {
+  "en": "Walnut & Linen",
+  "ar": "جوز وكتان"
+ },
+ "kind": "modern",
+ "source": {
+  "width": 3840,
+  "height": 2160
+ },
+ "art": {
+  "width": 3840,
+  "height": 2160
+ },
+ "insets": {
+  "top": 171,
+  "right": 171,
+  "bottom": 171,
+  "left": 171
+ },
+ "band": 0.0792,
+ "raw_band": 0.0792,
+ "normalised": false,
+ "slices": {
+  "corners": {
+   "tl": "corner_tl.png",
+   "tr": "corner_tr.png",
+   "bl": "corner_bl.png",
+   "br": "corner_br.png"
+  },
+  "edges": {
+   "top": {
+    "file": "edge_top.png",
+    "mode": "mirror",
+    "length": 3498,
+    "segments": [
+     874,
+     2624
+    ],
+    "note": "uniform profile (u=0.005), mirror keeps both joins native"
+   },
+   "bottom": {
+    "file": "edge_bottom.png",
+    "mode": "mirror",
+    "length": 3498,
+    "segments": [
+     874,
+     2624
+    ],
+    "note": "uniform profile (u=0.005), mirror keeps both joins native"
+   },
+   "left": {
+    "file": "edge_left.png",
+    "mode": "mirror",
+    "length": 1818,
+    "segments": [
+     454,
+     1364
+    ],
+    "note": "uniform profile (u=0.003), mirror keeps both joins native"
+   },
+   "right": {
+    "file": "edge_right.png",
+    "mode": "mirror",
+    "length": 1818,
+    "segments": [
+     454,
+     1364
+    ],
+    "note": "uniform profile (u=0.004), mirror keeps both joins native"
+   }
+  }
+ },
+ "thumb": "thumb.jpg"
+}
