@@ -1,6 +1,6 @@
 {
- "version": 1,
- "updated": "2026-10-03T19:45:13Z",
+ "version": 2,
+ "updated": "2026-10-04T10:04:44Z",
  "collections": [
   {
    "id": "roses",
@@ -322,6 +322,280 @@
    ]
   },
   {
+   "id": "andalusia",
+   "name": {
+    "en": "Andalusia",
+    "ar": "الأندلس"
+   },
+   "cover": "art/andalusia/alhambra-sunset-sierra.jpg",
+   "order": 1,
+   "items": [
+    {
+     "id": "alhambra-sunset-sierra",
+     "title": {
+      "en": "The Alhambra at Sunset",
+      "ar": "الحمراء عند الغروب"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/andalusia/alhambra-sunset-sierra.jpg",
+     "hd_bytes": 558851,
+     "uhd": "art/andalusia/4k/alhambra-sunset-sierra.jpg",
+     "uhd_bytes": 1147297,
+     "thumb": "art/andalusia/thumb/alhambra-sunset-sierra.jpg"
+    },
+    {
+     "id": "generalife-water-garden",
+     "title": {
+      "en": "The Water Garden of the Generalife",
+      "ar": "حديقة الماء في جنة العريف"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/andalusia/generalife-water-garden.jpg",
+     "hd_bytes": 731241,
+     "uhd": "art/andalusia/4k/generalife-water-garden.jpg",
+     "uhd_bytes": 1483395,
+     "thumb": "art/andalusia/thumb/generalife-water-garden.jpg"
+    },
+    {
+     "id": "lindaraja-window-view",
+     "title": {
+      "en": "A Window onto the Garden",
+      "ar": "نافذة على الحديقة"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/andalusia/lindaraja-window-view.jpg",
+     "hd_bytes": 703239,
+     "uhd": "art/andalusia/4k/lindaraja-window-view.jpg",
+     "uhd_bytes": 1384406,
+     "thumb": "art/andalusia/thumb/lindaraja-window-view.jpg"
+    },
+    {
+     "id": "stucco-arcade-lace",
+     "title": {
+      "en": "Arcade of Lace-Like Stucco",
+      "ar": "رواق الجص المخرّم"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/andalusia/stucco-arcade-lace.jpg",
+     "hd_bytes": 618327,
+     "uhd": "art/andalusia/4k/stucco-arcade-lace.jpg",
+     "uhd_bytes": 1231957,
+     "thumb": "art/andalusia/thumb/stucco-arcade-lace.jpg"
+    },
+    {
+     "id": "cordoba-flower-patio",
+     "title": {
+      "en": "Patio of Flowers, Córdoba",
+      "ar": "فناء الزهور في قرطبة"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/andalusia/cordoba-flower-patio.jpg",
+     "hd_bytes": 721249,
+     "uhd": "art/andalusia/4k/cordoba-flower-patio.jpg",
+     "uhd_bytes": 1391028,
+     "thumb": "art/andalusia/thumb/cordoba-flower-patio.jpg"
+    },
+    {
+     "id": "seville-sunken-garden-court",
+     "title": {
+      "en": "The Sunken Garden Courtyard",
+      "ar": "فناء الحديقة الغائرة"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/andalusia/seville-sunken-garden-court.jpg",
+     "hd_bytes": 608466,
+     "uhd": "art/andalusia/4k/seville-sunken-garden-court.jpg",
+     "uhd_bytes": 1227525,
+     "thumb": "art/andalusia/thumb/seville-sunken-garden-court.jpg"
+    },
+    {
+     "id": "andalusian-zellij-fountain",
+     "title": {
+      "en": "Zellij Fountain",
+      "ar": "نافورة الزليج"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/andalusia/andalusian-zellij-fountain.jpg",
+     "hd_bytes": 731620,
+     "uhd": "art/andalusia/4k/andalusian-zellij-fountain.jpg",
+     "uhd_bytes": 1431784,
+     "thumb": "art/andalusia/thumb/andalusian-zellij-fountain.jpg"
+    },
+    {
+     "id": "albaicin-white-houses-dusk",
+     "title": {
+      "en": "White Houses of the Albaicín at Dusk",
+      "ar": "البيوت البيضاء في البيازين عند الغسق"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/andalusia/albaicin-white-houses-dusk.jpg",
+     "hd_bytes": 495618,
+     "uhd": "art/andalusia/4k/albaicin-white-houses-dusk.jpg",
+     "uhd_bytes": 1012955,
+     "thumb": "art/andalusia/thumb/albaicin-white-houses-dusk.jpg"
+    },
+    {
+     "id": "two-sisters-dome",
+     "title": {
+      "en": "The Hall of the Two Sisters Dome",
+      "ar": "قبة قاعة الأختين"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/andalusia/two-sisters-dome.jpg",
+     "hd_bytes": 746106,
+     "uhd": "art/andalusia/4k/two-sisters-dome.jpg",
+     "uhd_bytes": 1483916,
+     "thumb": "art/andalusia/thumb/two-sisters-dome.jpg"
+    }
+   ]
+  },
+  {
+   "id": "blooms",
+   "name": {
+    "en": "Blooms",
+    "ar": "أزهار"
+   },
+   "cover": "art/blooms/magenta-peonies-ember.jpg",
+   "order": 2,
+   "items": [
+    {
+     "id": "magenta-peonies-ember",
+     "title": {
+      "en": "Peonies in Ember Light",
+      "ar": "فاوانيا في ضوء الجمر"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/blooms/magenta-peonies-ember.jpg",
+     "hd_bytes": 631335,
+     "uhd": "art/blooms/4k/magenta-peonies-ember.jpg",
+     "uhd_bytes": 1238008,
+     "thumb": "art/blooms/thumb/magenta-peonies-ember.jpg"
+    },
+    {
+     "id": "blush-peonies-gold",
+     "title": {
+      "en": "Blush Peonies on Gold",
+      "ar": "فاوانيا وردية على الذهب"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/blooms/blush-peonies-gold.jpg",
+     "hd_bytes": 739119,
+     "uhd": "art/blooms/4k/blush-peonies-gold.jpg",
+     "uhd_bytes": 1417879,
+     "thumb": "art/blooms/thumb/blush-peonies-gold.jpg"
+    },
+    {
+     "id": "crimson-rose-heart",
+     "title": {
+      "en": "The Heart of a Crimson Rose",
+      "ar": "قلب وردة قرمزية"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/blooms/crimson-rose-heart.jpg",
+     "hd_bytes": 572711,
+     "uhd": "art/blooms/4k/crimson-rose-heart.jpg",
+     "uhd_bytes": 1144271,
+     "thumb": "art/blooms/thumb/crimson-rose-heart.jpg"
+    },
+    {
+     "id": "white-peony-moonlight",
+     "title": {
+      "en": "White Peony in Moonlight",
+      "ar": "فاوانيا بيضاء في ضوء القمر"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/blooms/white-peony-moonlight.jpg",
+     "hd_bytes": 555869,
+     "uhd": "art/blooms/4k/white-peony-moonlight.jpg",
+     "uhd_bytes": 1087604,
+     "thumb": "art/blooms/thumb/white-peony-moonlight.jpg"
+    },
+    {
+     "id": "coral-ranunculus-spiral",
+     "title": {
+      "en": "Coral Ranunculus Spirals",
+      "ar": "دوامات الحوذان المرجانية"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/blooms/coral-ranunculus-spiral.jpg",
+     "hd_bytes": 520356,
+     "uhd": "art/blooms/4k/coral-ranunculus-spiral.jpg",
+     "uhd_bytes": 1074411,
+     "thumb": "art/blooms/thumb/coral-ranunculus-spiral.jpg"
+    },
+    {
+     "id": "lilac-cloud-swirl",
+     "title": {
+      "en": "Lilac Cloud",
+      "ar": "سحابة الليلك"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/blooms/lilac-cloud-swirl.jpg",
+     "hd_bytes": 413558,
+     "uhd": "art/blooms/4k/lilac-cloud-swirl.jpg",
+     "uhd_bytes": 865269,
+     "thumb": "art/blooms/thumb/lilac-cloud-swirl.jpg"
+    },
+    {
+     "id": "golden-roses-sunburst",
+     "title": {
+      "en": "Golden Roses Sunburst",
+      "ar": "ورود ذهبية مشعة"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/blooms/golden-roses-sunburst.jpg",
+     "hd_bytes": 623683,
+     "uhd": "art/blooms/4k/golden-roses-sunburst.jpg",
+     "uhd_bytes": 1257693,
+     "thumb": "art/blooms/thumb/golden-roses-sunburst.jpg"
+    },
+    {
+     "id": "pink-tulips-sweep",
+     "title": {
+      "en": "Sweep of Pink Tulips",
+      "ar": "اندفاعة التوليب الوردي"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/blooms/pink-tulips-sweep.jpg",
+     "hd_bytes": 539759,
+     "uhd": "art/blooms/4k/pink-tulips-sweep.jpg",
+     "uhd_bytes": 1050553,
+     "thumb": "art/blooms/thumb/pink-tulips-sweep.jpg"
+    },
+    {
+     "id": "red-poppies-dance",
+     "title": {
+      "en": "Poppies Dancing",
+      "ar": "شقائق النعمان الراقصة"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/blooms/red-poppies-dance.jpg",
+     "hd_bytes": 484932,
+     "uhd": "art/blooms/4k/red-poppies-dance.jpg",
+     "uhd_bytes": 970869,
+     "thumb": "art/blooms/thumb/red-poppies-dance.jpg"
+    }
+   ]
+  },
+  {
    "id": "gardens",
    "name": {
     "en": "Gardens & Courtyards",
@@ -339,9 +613,9 @@
      "artist": "Quran Frame Studio",
      "year": "2026",
      "hd": "art/gardens/alhambra-reflecting-pool.jpg",
-     "hd_bytes": 498479,
+     "hd_bytes": 292671,
      "uhd": "art/gardens/4k/alhambra-reflecting-pool.jpg",
-     "uhd_bytes": 902710,
+     "uhd_bytes": 292671,
      "thumb": "art/gardens/thumb/alhambra-reflecting-pool.jpg"
     },
     {
@@ -353,10 +627,287 @@
      "artist": "Quran Frame Studio",
      "year": "2026",
      "hd": "art/gardens/persian-chahar-bagh.jpg",
-     "hd_bytes": 610289,
+     "hd_bytes": 350723,
      "uhd": "art/gardens/4k/persian-chahar-bagh.jpg",
-     "uhd_bytes": 1103881,
+     "uhd_bytes": 350723,
      "thumb": "art/gardens/thumb/persian-chahar-bagh.jpg"
+    },
+    {
+     "id": "jasmine-arch-moonlight",
+     "title": {
+      "en": "Jasmine Arch by Moonlight",
+      "ar": "قوس الياسمين في ضوء القمر"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/gardens/jasmine-arch-moonlight.jpg",
+     "hd_bytes": 527434,
+     "uhd": "art/gardens/4k/jasmine-arch-moonlight.jpg",
+     "uhd_bytes": 1072127,
+     "thumb": "art/gardens/thumb/jasmine-arch-moonlight.jpg"
+    },
+    {
+     "id": "almond-blossom-orchard",
+     "title": {
+      "en": "Almond Orchard in Bloom",
+      "ar": "بستان اللوز المزهر"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/gardens/almond-blossom-orchard.jpg",
+     "hd_bytes": 692760,
+     "uhd": "art/gardens/4k/almond-blossom-orchard.jpg",
+     "uhd_bytes": 1387692,
+     "thumb": "art/gardens/thumb/almond-blossom-orchard.jpg"
+    },
+    {
+     "id": "damascus-courtyard-fountain",
+     "title": {
+      "en": "Damascene Courtyard Fountain",
+      "ar": "نافورة في فناء دمشقي"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/gardens/damascus-courtyard-fountain.jpg",
+     "hd_bytes": 696480,
+     "uhd": "art/gardens/4k/damascus-courtyard-fountain.jpg",
+     "uhd_bytes": 1376180,
+     "thumb": "art/gardens/thumb/damascus-courtyard-fountain.jpg"
+    },
+    {
+     "id": "rose-garden-cypress-path",
+     "title": {
+      "en": "Rose Garden Along the Cypress Walk",
+      "ar": "حديقة الورود على ممر السرو"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/gardens/rose-garden-cypress-path.jpg",
+     "hd_bytes": 623112,
+     "uhd": "art/gardens/4k/rose-garden-cypress-path.jpg",
+     "uhd_bytes": 1257850,
+     "thumb": "art/gardens/thumb/rose-garden-cypress-path.jpg"
+    },
+    {
+     "id": "oasis-palms-dawn",
+     "title": {
+      "en": "Oasis at Dawn",
+      "ar": "واحة عند الفجر"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/gardens/oasis-palms-dawn.jpg",
+     "hd_bytes": 616170,
+     "uhd": "art/gardens/4k/oasis-palms-dawn.jpg",
+     "uhd_bytes": 1283056,
+     "thumb": "art/gardens/thumb/oasis-palms-dawn.jpg"
+    },
+    {
+     "id": "tiled-pavilion-lotus-pond",
+     "title": {
+      "en": "Tiled Pavilion on the Lotus Pond",
+      "ar": "جناح مبلط على بركة اللوتس"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/gardens/tiled-pavilion-lotus-pond.jpg",
+     "hd_bytes": 668696,
+     "uhd": "art/gardens/4k/tiled-pavilion-lotus-pond.jpg",
+     "uhd_bytes": 1355000,
+     "thumb": "art/gardens/thumb/tiled-pavilion-lotus-pond.jpg"
+    },
+    {
+     "id": "terraced-gardens-river",
+     "title": {
+      "en": "Terraced Gardens Above the River",
+      "ar": "حدائق مدرجة فوق النهر"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/gardens/terraced-gardens-river.jpg",
+     "hd_bytes": 589594,
+     "uhd": "art/gardens/4k/terraced-gardens-river.jpg",
+     "uhd_bytes": 1204415,
+     "thumb": "art/gardens/thumb/terraced-gardens-river.jpg"
+    },
+    {
+     "id": "winter-garden-snow-roses",
+     "title": {
+      "en": "First Snow in the Rose Garden",
+      "ar": "أول ثلج في حديقة الورود"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/gardens/winter-garden-snow-roses.jpg",
+     "hd_bytes": 741632,
+     "uhd": "art/gardens/4k/winter-garden-snow-roses.jpg",
+     "uhd_bytes": 1453408,
+     "thumb": "art/gardens/thumb/winter-garden-snow-roses.jpg"
+    }
+   ]
+  },
+  {
+   "id": "islamic",
+   "name": {
+    "en": "Islamic Art",
+    "ar": "فن إسلامي"
+   },
+   "cover": "art/islamic/mihrab-morning-light.jpg",
+   "order": 4,
+   "items": [
+    {
+     "id": "mihrab-morning-light",
+     "title": {
+      "en": "Mihrab in Morning Light",
+      "ar": "محراب في ضوء الصباح"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/islamic/mihrab-morning-light.jpg",
+     "hd_bytes": 485386,
+     "uhd": "art/islamic/4k/mihrab-morning-light.jpg",
+     "uhd_bytes": 997298,
+     "thumb": "art/islamic/thumb/mihrab-morning-light.jpg"
+    },
+    {
+     "id": "ottoman-mosque-chandeliers",
+     "title": {
+      "en": "Beneath the Ottoman Domes",
+      "ar": "تحت القباب العثمانية"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/islamic/ottoman-mosque-chandeliers.jpg",
+     "hd_bytes": 704731,
+     "uhd": "art/islamic/4k/ottoman-mosque-chandeliers.jpg",
+     "uhd_bytes": 1416759,
+     "thumb": "art/islamic/thumb/ottoman-mosque-chandeliers.jpg"
+    },
+    {
+     "id": "pink-mosque-stained-glass",
+     "title": {
+      "en": "Coloured Light on Persian Carpets",
+      "ar": "ضوء ملون على السجاد الفارسي"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/islamic/pink-mosque-stained-glass.jpg",
+     "hd_bytes": 599028,
+     "uhd": "art/islamic/4k/pink-mosque-stained-glass.jpg",
+     "uhd_bytes": 1186418,
+     "thumb": "art/islamic/thumb/pink-mosque-stained-glass.jpg"
+    },
+    {
+     "id": "cairo-minarets-sunset",
+     "title": {
+      "en": "Minarets of Old Cairo at Sunset",
+      "ar": "مآذن القاهرة القديمة عند الغروب"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/islamic/cairo-minarets-sunset.jpg",
+     "hd_bytes": 535218,
+     "uhd": "art/islamic/4k/cairo-minarets-sunset.jpg",
+     "uhd_bytes": 1100966,
+     "thumb": "art/islamic/thumb/cairo-minarets-sunset.jpg"
+    },
+    {
+     "id": "dome-of-the-rock-golden-hour",
+     "title": {
+      "en": "The Dome of the Rock at Golden Hour",
+      "ar": "قبة الصخرة في الساعة الذهبية"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/islamic/dome-of-the-rock-golden-hour.jpg",
+     "hd_bytes": 512409,
+     "uhd": "art/islamic/4k/dome-of-the-rock-golden-hour.jpg",
+     "uhd_bytes": 1059006,
+     "thumb": "art/islamic/thumb/dome-of-the-rock-golden-hour.jpg"
+    },
+    {
+     "id": "green-dome-dawn",
+     "title": {
+      "en": "The Green Dome at Dawn",
+      "ar": "القبة الخضراء عند الفجر"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/islamic/green-dome-dawn.jpg",
+     "hd_bytes": 599268,
+     "uhd": "art/islamic/4k/green-dome-dawn.jpg",
+     "uhd_bytes": 1187475,
+     "thumb": "art/islamic/thumb/green-dome-dawn.jpg"
+    },
+    {
+     "id": "desert-mosque-starry-night",
+     "title": {
+      "en": "A Desert Mosque Under the Stars",
+      "ar": "مسجد في الصحراء تحت النجوم"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/islamic/desert-mosque-starry-night.jpg",
+     "hd_bytes": 376347,
+     "uhd": "art/islamic/4k/desert-mosque-starry-night.jpg",
+     "uhd_bytes": 803289,
+     "thumb": "art/islamic/thumb/desert-mosque-starry-night.jpg"
+    },
+    {
+     "id": "ramadan-lanterns-dates",
+     "title": {
+      "en": "Ramadan Lanterns",
+      "ar": "فوانيس رمضان"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/islamic/ramadan-lanterns-dates.jpg",
+     "hd_bytes": 411687,
+     "uhd": "art/islamic/4k/ramadan-lanterns-dates.jpg",
+     "uhd_bytes": 840147,
+     "thumb": "art/islamic/thumb/ramadan-lanterns-dates.jpg"
+    },
+    {
+     "id": "closed-quran-rehal",
+     "title": {
+      "en": "The Quran on Its Stand",
+      "ar": "المصحف على الرحل"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/islamic/closed-quran-rehal.jpg",
+     "hd_bytes": 595094,
+     "uhd": "art/islamic/4k/closed-quran-rehal.jpg",
+     "uhd_bytes": 1209643,
+     "thumb": "art/islamic/thumb/closed-quran-rehal.jpg"
+    },
+    {
+     "id": "iznik-tulip-tiles",
+     "title": {
+      "en": "Iznik Tiles with Tulips",
+      "ar": "خزف إزنيق بالتوليب"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/islamic/iznik-tulip-tiles.jpg",
+     "hd_bytes": 702695,
+     "uhd": "art/islamic/4k/iznik-tulip-tiles.jpg",
+     "uhd_bytes": 1420177,
+     "thumb": "art/islamic/thumb/iznik-tulip-tiles.jpg"
+    },
+    {
+     "id": "gold-lapis-geometric",
+     "title": {
+      "en": "Gold and Lapis Star Pattern",
+      "ar": "نجوم الذهب واللازورد"
+     },
+     "artist": "Quran Frame Studio",
+     "year": "2026",
+     "hd": "art/islamic/gold-lapis-geometric.jpg",
+     "hd_bytes": 614340,
+     "uhd": "art/islamic/4k/gold-lapis-geometric.jpg",
+     "uhd_bytes": 1220281,
+     "thumb": "art/islamic/thumb/gold-lapis-geometric.jpg"
     }
    ]
   }
