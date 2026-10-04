@@ -1,6 +1,6 @@
 {
- "version": 4,
- "updated": "2026-10-04T16:40:59Z",
+ "version": 5,
+ "updated": "2026-10-04T20:12:01Z",
  "collections": [
   {
    "id": "roses",
@@ -19,7 +19,7 @@
       "en": "Blush Roses in a Brass Urn",
       "ar": "ورود وردية في جرة نحاسية"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/blush-brass-urn.jpg",
      "hd_bytes": 429318,
@@ -34,7 +34,7 @@
       "en": "Peach Peonies in a Silver Vase",
       "ar": "فاوانيا خوخية في مزهرية فضية"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/peach-peonies-silver.jpg",
      "hd_bytes": 382009,
@@ -49,7 +49,7 @@
       "en": "Crimson Roses in Delft Porcelain",
       "ar": "ورود قرمزية في خزف دلفت"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/crimson-delft.jpg",
      "hd_bytes": 457157,
@@ -64,7 +64,7 @@
       "en": "Cream Roses and Ranunculus",
       "ar": "ورود عاجية وحوذان"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/cream-ranunculus-terracotta.jpg",
      "hd_bytes": 435876,
@@ -79,7 +79,7 @@
       "en": "White Peonies at Dusk",
       "ar": "فاوانيا بيضاء عند الغسق"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/white-peonies-olive.jpg",
      "hd_bytes": 410490,
@@ -94,7 +94,7 @@
       "en": "Pink Ranunculus in Silver",
       "ar": "حوذان وردي في إناء فضي"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/pink-ranunculus-silver.jpg",
      "hd_bytes": 438272,
@@ -109,7 +109,7 @@
       "en": "Peach Roses in a Delft Jar",
       "ar": "ورود خوخية في جرة دلفت"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/peach-roses-delft-jar.jpg",
      "hd_bytes": 446911,
@@ -124,7 +124,7 @@
       "en": "Crimson Peonies in Terracotta",
       "ar": "فاوانيا قرمزية في إناء فخاري"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/crimson-peonies-terracotta.jpg",
      "hd_bytes": 343786,
@@ -139,7 +139,7 @@
       "en": "Coral Peonies and Cream Roses",
       "ar": "فاوانيا مرجانية وورود عاجية"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/coral-peonies-brass.jpg",
      "hd_bytes": 364011,
@@ -154,7 +154,7 @@
       "en": "Ivory Roses in a Silver Urn",
       "ar": "ورود عاجية في جرة فضية"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/ivory-roses-silver-urn.jpg",
      "hd_bytes": 512453,
@@ -169,7 +169,7 @@
       "en": "Ranunculus in a Delft Bowl",
       "ar": "حوذان في وعاء دلفت"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/ranunculus-delft-bowl.jpg",
      "hd_bytes": 439274,
@@ -184,7 +184,7 @@
       "en": "Apricot Roses at Golden Hour",
       "ar": "ورود مشمشية في الساعة الذهبية"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/apricot-terracotta-parchment.jpg",
      "hd_bytes": 410516,
@@ -199,7 +199,7 @@
       "en": "Golden Tea Roses in a Pewter Jug",
       "ar": "ورود صفراء في إبريق من القصدير"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/golden-tea-roses-pewter.jpg",
      "hd_bytes": 344425,
@@ -214,7 +214,7 @@
       "en": "Lavender Roses in a Crystal Vase",
       "ar": "ورود بنفسجية في مزهرية كريستال"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/lavender-roses-crystal.jpg",
      "hd_bytes": 420897,
@@ -229,7 +229,7 @@
       "en": "Crimson Damask Roses in a Gilded Bowl",
       "ar": "ورود دمشقية حمراء في وعاء مذهب"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/crimson-damask-gilded-bowl.jpg",
      "hd_bytes": 362378,
@@ -244,7 +244,7 @@
       "en": "White Roses and Jasmine in an Alabaster Urn",
       "ar": "ورود بيضاء وياسمين في جرة من المرمر"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/white-roses-jasmine-alabaster.jpg",
      "hd_bytes": 388072,
@@ -259,7 +259,7 @@
       "en": "Coral Roses in a Copper Cauldron",
       "ar": "ورود مرجانية في قدر نحاسي"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/coral-roses-copper.jpg",
      "hd_bytes": 381585,
@@ -274,7 +274,7 @@
       "en": "Peonies and Roses in a Celadon Jar",
       "ar": "فاوانيا وورود في جرة سيلادون"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/peonies-roses-celadon.jpg",
      "hd_bytes": 345902,
@@ -289,7 +289,7 @@
       "en": "Autumn Roses and Rose Hips in Bronze",
       "ar": "ورود خريفية وثمار الورد في البرونز"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/rose-hips-autumn-bronze.jpg",
      "hd_bytes": 370827,
@@ -304,7 +304,7 @@
       "en": "Pink Roses in a Silver Ewer",
       "ar": "ورود وردية في إبريق فضي"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/pink-roses-silver-ewer.jpg",
      "hd_bytes": 336727,
@@ -319,7 +319,7 @@
       "en": "Cream Roses with Wheat in a Wicker Basket",
       "ar": "ورود كريمية مع سنابل القمح في سلة"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/cream-roses-wheat-basket.jpg",
      "hd_bytes": 420087,
@@ -334,7 +334,7 @@
       "en": "Night Roses in Cobalt Glass",
       "ar": "ورود ليلية في زجاج كوبالت"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/roses/midnight-roses-blue-glass.jpg",
      "hd_bytes": 349734,
@@ -361,7 +361,7 @@
       "en": "The Alhambra at Sunset",
       "ar": "الحمراء عند الغروب"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/andalusia/alhambra-sunset-sierra.jpg",
      "hd_bytes": 558851,
@@ -376,7 +376,7 @@
       "en": "The Water Garden of the Generalife",
       "ar": "حديقة الماء في جنة العريف"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/andalusia/generalife-water-garden.jpg",
      "hd_bytes": 731241,
@@ -391,7 +391,7 @@
       "en": "A Window onto the Garden",
       "ar": "نافذة على الحديقة"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/andalusia/lindaraja-window-view.jpg",
      "hd_bytes": 703239,
@@ -406,7 +406,7 @@
       "en": "Arcade of Lace-Like Stucco",
       "ar": "رواق الجص المخرّم"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/andalusia/stucco-arcade-lace.jpg",
      "hd_bytes": 618327,
@@ -421,7 +421,7 @@
       "en": "Patio of Flowers, Córdoba",
       "ar": "فناء الزهور في قرطبة"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/andalusia/cordoba-flower-patio.jpg",
      "hd_bytes": 721249,
@@ -436,7 +436,7 @@
       "en": "The Sunken Garden Courtyard",
       "ar": "فناء الحديقة الغائرة"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/andalusia/seville-sunken-garden-court.jpg",
      "hd_bytes": 608466,
@@ -451,7 +451,7 @@
       "en": "Zellij Fountain",
       "ar": "نافورة الزليج"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/andalusia/andalusian-zellij-fountain.jpg",
      "hd_bytes": 731620,
@@ -466,7 +466,7 @@
       "en": "White Houses of the Albaicín at Dusk",
       "ar": "البيوت البيضاء في البيازين عند الغسق"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/andalusia/albaicin-white-houses-dusk.jpg",
      "hd_bytes": 495618,
@@ -481,7 +481,7 @@
       "en": "The Hall of the Two Sisters Dome",
       "ar": "قبة قاعة الأختين"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/andalusia/two-sisters-dome.jpg",
      "hd_bytes": 746106,
@@ -508,7 +508,7 @@
       "en": "Peonies in Ember Light",
       "ar": "فاوانيا في ضوء الجمر"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/blooms/magenta-peonies-ember.jpg",
      "hd_bytes": 631335,
@@ -523,7 +523,7 @@
       "en": "Blush Peonies on Gold",
       "ar": "فاوانيا وردية على الذهب"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/blooms/blush-peonies-gold.jpg",
      "hd_bytes": 739119,
@@ -538,7 +538,7 @@
       "en": "The Heart of a Crimson Rose",
       "ar": "قلب وردة قرمزية"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/blooms/crimson-rose-heart.jpg",
      "hd_bytes": 572711,
@@ -553,7 +553,7 @@
       "en": "White Peony in Moonlight",
       "ar": "فاوانيا بيضاء في ضوء القمر"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/blooms/white-peony-moonlight.jpg",
      "hd_bytes": 555869,
@@ -568,7 +568,7 @@
       "en": "Coral Ranunculus Spirals",
       "ar": "دوامات الحوذان المرجانية"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/blooms/coral-ranunculus-spiral.jpg",
      "hd_bytes": 520356,
@@ -583,7 +583,7 @@
       "en": "Lilac Cloud",
       "ar": "سحابة الليلك"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/blooms/lilac-cloud-swirl.jpg",
      "hd_bytes": 413558,
@@ -598,7 +598,7 @@
       "en": "Golden Roses Sunburst",
       "ar": "ورود ذهبية مشعة"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/blooms/golden-roses-sunburst.jpg",
      "hd_bytes": 623683,
@@ -613,7 +613,7 @@
       "en": "Sweep of Pink Tulips",
       "ar": "اندفاعة التوليب الوردي"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/blooms/pink-tulips-sweep.jpg",
      "hd_bytes": 539759,
@@ -628,7 +628,7 @@
       "en": "Poppies Dancing",
       "ar": "شقائق النعمان الراقصة"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/blooms/red-poppies-dance.jpg",
      "hd_bytes": 484932,
@@ -655,7 +655,7 @@
       "en": "Courtyard of the Reflecting Pool",
       "ar": "فناء البركة العاكسة"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/gardens/alhambra-reflecting-pool.jpg",
      "hd_bytes": 292671,
@@ -670,7 +670,7 @@
       "en": "Persian Garden with Four Channels",
       "ar": "حديقة فارسية بأربع قنوات"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/gardens/persian-chahar-bagh.jpg",
      "hd_bytes": 350723,
@@ -685,7 +685,7 @@
       "en": "Jasmine Arch by Moonlight",
       "ar": "قوس الياسمين في ضوء القمر"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/gardens/jasmine-arch-moonlight.jpg",
      "hd_bytes": 527434,
@@ -700,7 +700,7 @@
       "en": "Almond Orchard in Bloom",
       "ar": "بستان اللوز المزهر"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/gardens/almond-blossom-orchard.jpg",
      "hd_bytes": 692760,
@@ -715,7 +715,7 @@
       "en": "Damascene Courtyard Fountain",
       "ar": "نافورة في فناء دمشقي"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/gardens/damascus-courtyard-fountain.jpg",
      "hd_bytes": 696480,
@@ -730,7 +730,7 @@
       "en": "Rose Garden Along the Cypress Walk",
       "ar": "حديقة الورود على ممر السرو"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/gardens/rose-garden-cypress-path.jpg",
      "hd_bytes": 623112,
@@ -745,7 +745,7 @@
       "en": "Oasis at Dawn",
       "ar": "واحة عند الفجر"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/gardens/oasis-palms-dawn.jpg",
      "hd_bytes": 616170,
@@ -760,7 +760,7 @@
       "en": "Tiled Pavilion on the Lotus Pond",
       "ar": "جناح مبلط على بركة اللوتس"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/gardens/tiled-pavilion-lotus-pond.jpg",
      "hd_bytes": 668696,
@@ -775,7 +775,7 @@
       "en": "Terraced Gardens Above the River",
       "ar": "حدائق مدرجة فوق النهر"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/gardens/terraced-gardens-river.jpg",
      "hd_bytes": 589594,
@@ -790,7 +790,7 @@
       "en": "First Snow in the Rose Garden",
       "ar": "أول ثلج في حديقة الورود"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/gardens/winter-garden-snow-roses.jpg",
      "hd_bytes": 741632,
@@ -817,7 +817,7 @@
       "en": "Mihrab in Morning Light",
       "ar": "محراب في ضوء الصباح"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/islamic/mihrab-morning-light.jpg",
      "hd_bytes": 485386,
@@ -832,7 +832,7 @@
       "en": "Beneath the Ottoman Domes",
       "ar": "تحت القباب العثمانية"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/islamic/ottoman-mosque-chandeliers.jpg",
      "hd_bytes": 704731,
@@ -847,7 +847,7 @@
       "en": "Coloured Light on Persian Carpets",
       "ar": "ضوء ملون على السجاد الفارسي"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/islamic/pink-mosque-stained-glass.jpg",
      "hd_bytes": 599028,
@@ -862,7 +862,7 @@
       "en": "Minarets of Old Cairo at Sunset",
       "ar": "مآذن القاهرة القديمة عند الغروب"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/islamic/cairo-minarets-sunset.jpg",
      "hd_bytes": 535218,
@@ -877,7 +877,7 @@
       "en": "The Dome of the Rock at Golden Hour",
       "ar": "قبة الصخرة في الساعة الذهبية"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/islamic/dome-of-the-rock-golden-hour.jpg",
      "hd_bytes": 512409,
@@ -892,7 +892,7 @@
       "en": "The Green Dome at Dawn",
       "ar": "القبة الخضراء عند الفجر"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/islamic/green-dome-dawn.jpg",
      "hd_bytes": 599268,
@@ -907,7 +907,7 @@
       "en": "A Desert Mosque Under the Stars",
       "ar": "مسجد في الصحراء تحت النجوم"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/islamic/desert-mosque-starry-night.jpg",
      "hd_bytes": 376347,
@@ -922,7 +922,7 @@
       "en": "Ramadan Lanterns",
       "ar": "فوانيس رمضان"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/islamic/ramadan-lanterns-dates.jpg",
      "hd_bytes": 411687,
@@ -937,7 +937,7 @@
       "en": "The Quran on Its Stand",
       "ar": "المصحف على الرحل"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/islamic/closed-quran-rehal.jpg",
      "hd_bytes": 595094,
@@ -952,7 +952,7 @@
       "en": "Iznik Tiles with Tulips",
       "ar": "خزف إزنيق بالتوليب"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/islamic/iznik-tulip-tiles.jpg",
      "hd_bytes": 702695,
@@ -967,7 +967,7 @@
       "en": "Gold and Lapis Star Pattern",
       "ar": "نجوم الذهب واللازورد"
      },
-     "artist": "Quran Frame Studio",
+     "artist": "Quran & Decor Studio",
      "year": "2026",
      "hd": "art/islamic/gold-lapis-geometric.jpg",
      "hd_bytes": 614340,
