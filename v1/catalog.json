@@ -1,9 +1,10 @@
 {
- "version": 3,
- "updated": "2026-10-04T10:30:34Z",
+ "version": 4,
+ "updated": "2026-10-04T16:40:59Z",
  "collections": [
   {
    "id": "roses",
+   "code": 1,
    "name": {
     "en": "Roses & Still Life",
     "ar": "ورود وطبيعة صامتة"
@@ -13,6 +14,7 @@
    "items": [
     {
      "id": "blush-brass-urn",
+     "code": 1,
      "title": {
       "en": "Blush Roses in a Brass Urn",
       "ar": "ورود وردية في جرة نحاسية"
@@ -27,6 +29,7 @@
     },
     {
      "id": "peach-peonies-silver",
+     "code": 2,
      "title": {
       "en": "Peach Peonies in a Silver Vase",
       "ar": "فاوانيا خوخية في مزهرية فضية"
@@ -41,6 +44,7 @@
     },
     {
      "id": "crimson-delft",
+     "code": 3,
      "title": {
       "en": "Crimson Roses in Delft Porcelain",
       "ar": "ورود قرمزية في خزف دلفت"
@@ -55,6 +59,7 @@
     },
     {
      "id": "cream-ranunculus-terracotta",
+     "code": 4,
      "title": {
       "en": "Cream Roses and Ranunculus",
       "ar": "ورود عاجية وحوذان"
@@ -69,6 +74,7 @@
     },
     {
      "id": "white-peonies-olive",
+     "code": 5,
      "title": {
       "en": "White Peonies at Dusk",
       "ar": "فاوانيا بيضاء عند الغسق"
@@ -83,6 +89,7 @@
     },
     {
      "id": "pink-ranunculus-silver",
+     "code": 6,
      "title": {
       "en": "Pink Ranunculus in Silver",
       "ar": "حوذان وردي في إناء فضي"
@@ -97,6 +104,7 @@
     },
     {
      "id": "peach-roses-delft-jar",
+     "code": 7,
      "title": {
       "en": "Peach Roses in a Delft Jar",
       "ar": "ورود خوخية في جرة دلفت"
@@ -111,6 +119,7 @@
     },
     {
      "id": "crimson-peonies-terracotta",
+     "code": 8,
      "title": {
       "en": "Crimson Peonies in Terracotta",
       "ar": "فاوانيا قرمزية في إناء فخاري"
@@ -125,6 +134,7 @@
     },
     {
      "id": "coral-peonies-brass",
+     "code": 9,
      "title": {
       "en": "Coral Peonies and Cream Roses",
       "ar": "فاوانيا مرجانية وورود عاجية"
@@ -139,6 +149,7 @@
     },
     {
      "id": "ivory-roses-silver-urn",
+     "code": 10,
      "title": {
       "en": "Ivory Roses in a Silver Urn",
       "ar": "ورود عاجية في جرة فضية"
@@ -153,6 +164,7 @@
     },
     {
      "id": "ranunculus-delft-bowl",
+     "code": 11,
      "title": {
       "en": "Ranunculus in a Delft Bowl",
       "ar": "حوذان في وعاء دلفت"
@@ -167,6 +179,7 @@
     },
     {
      "id": "apricot-terracotta-parchment",
+     "code": 12,
      "title": {
       "en": "Apricot Roses at Golden Hour",
       "ar": "ورود مشمشية في الساعة الذهبية"
@@ -181,6 +194,7 @@
     },
     {
      "id": "golden-tea-roses-pewter",
+     "code": 13,
      "title": {
       "en": "Golden Tea Roses in a Pewter Jug",
       "ar": "ورود صفراء في إبريق من القصدير"
@@ -195,6 +209,7 @@
     },
     {
      "id": "lavender-roses-crystal",
+     "code": 14,
      "title": {
       "en": "Lavender Roses in a Crystal Vase",
       "ar": "ورود بنفسجية في مزهرية كريستال"
@@ -209,6 +224,7 @@
     },
     {
      "id": "crimson-damask-gilded-bowl",
+     "code": 15,
      "title": {
       "en": "Crimson Damask Roses in a Gilded Bowl",
       "ar": "ورود دمشقية حمراء في وعاء مذهب"
@@ -223,6 +239,7 @@
     },
     {
      "id": "white-roses-jasmine-alabaster",
+     "code": 16,
      "title": {
       "en": "White Roses and Jasmine in an Alabaster Urn",
       "ar": "ورود بيضاء وياسمين في جرة من المرمر"
@@ -237,6 +254,7 @@
     },
     {
      "id": "coral-roses-copper",
+     "code": 17,
      "title": {
       "en": "Coral Roses in a Copper Cauldron",
       "ar": "ورود مرجانية في قدر نحاسي"
@@ -251,6 +269,7 @@
     },
     {
      "id": "peonies-roses-celadon",
+     "code": 18,
      "title": {
       "en": "Peonies and Roses in a Celadon Jar",
       "ar": "فاوانيا وورود في جرة سيلادون"
@@ -265,6 +284,7 @@
     },
     {
      "id": "rose-hips-autumn-bronze",
+     "code": 19,
      "title": {
       "en": "Autumn Roses and Rose Hips in Bronze",
       "ar": "ورود خريفية وثمار الورد في البرونز"
@@ -279,6 +299,7 @@
     },
     {
      "id": "pink-roses-silver-ewer",
+     "code": 20,
      "title": {
       "en": "Pink Roses in a Silver Ewer",
       "ar": "ورود وردية في إبريق فضي"
@@ -293,6 +314,7 @@
     },
     {
      "id": "cream-roses-wheat-basket",
+     "code": 21,
      "title": {
       "en": "Cream Roses with Wheat in a Wicker Basket",
       "ar": "ورود كريمية مع سنابل القمح في سلة"
@@ -307,6 +329,7 @@
     },
     {
      "id": "midnight-roses-blue-glass",
+     "code": 22,
      "title": {
       "en": "Night Roses in Cobalt Glass",
       "ar": "ورود ليلية في زجاج كوبالت"
@@ -323,6 +346,7 @@
   },
   {
    "id": "andalusia",
+   "code": 2,
    "name": {
     "en": "Andalusia",
     "ar": "الأندلس"
@@ -332,6 +356,7 @@
    "items": [
     {
      "id": "alhambra-sunset-sierra",
+     "code": 23,
      "title": {
       "en": "The Alhambra at Sunset",
       "ar": "الحمراء عند الغروب"
@@ -346,6 +371,7 @@
     },
     {
      "id": "generalife-water-garden",
+     "code": 24,
      "title": {
       "en": "The Water Garden of the Generalife",
       "ar": "حديقة الماء في جنة العريف"
@@ -360,6 +386,7 @@
     },
     {
      "id": "lindaraja-window-view",
+     "code": 25,
      "title": {
       "en": "A Window onto the Garden",
       "ar": "نافذة على الحديقة"
@@ -374,6 +401,7 @@
     },
     {
      "id": "stucco-arcade-lace",
+     "code": 26,
      "title": {
       "en": "Arcade of Lace-Like Stucco",
       "ar": "رواق الجص المخرّم"
@@ -388,6 +416,7 @@
     },
     {
      "id": "cordoba-flower-patio",
+     "code": 27,
      "title": {
       "en": "Patio of Flowers, Córdoba",
       "ar": "فناء الزهور في قرطبة"
@@ -402,6 +431,7 @@
     },
     {
      "id": "seville-sunken-garden-court",
+     "code": 28,
      "title": {
       "en": "The Sunken Garden Courtyard",
       "ar": "فناء الحديقة الغائرة"
@@ -416,6 +446,7 @@
     },
     {
      "id": "andalusian-zellij-fountain",
+     "code": 29,
      "title": {
       "en": "Zellij Fountain",
       "ar": "نافورة الزليج"
@@ -430,6 +461,7 @@
     },
     {
      "id": "albaicin-white-houses-dusk",
+     "code": 30,
      "title": {
       "en": "White Houses of the Albaicín at Dusk",
       "ar": "البيوت البيضاء في البيازين عند الغسق"
@@ -444,6 +476,7 @@
     },
     {
      "id": "two-sisters-dome",
+     "code": 31,
      "title": {
       "en": "The Hall of the Two Sisters Dome",
       "ar": "قبة قاعة الأختين"
@@ -460,6 +493,7 @@
   },
   {
    "id": "blooms",
+   "code": 3,
    "name": {
     "en": "Blooms",
     "ar": "أزهار"
@@ -469,6 +503,7 @@
    "items": [
     {
      "id": "magenta-peonies-ember",
+     "code": 32,
      "title": {
       "en": "Peonies in Ember Light",
       "ar": "فاوانيا في ضوء الجمر"
@@ -483,6 +518,7 @@
     },
     {
      "id": "blush-peonies-gold",
+     "code": 33,
      "title": {
       "en": "Blush Peonies on Gold",
       "ar": "فاوانيا وردية على الذهب"
@@ -497,6 +533,7 @@
     },
     {
      "id": "crimson-rose-heart",
+     "code": 34,
      "title": {
       "en": "The Heart of a Crimson Rose",
       "ar": "قلب وردة قرمزية"
@@ -511,6 +548,7 @@
     },
     {
      "id": "white-peony-moonlight",
+     "code": 35,
      "title": {
       "en": "White Peony in Moonlight",
       "ar": "فاوانيا بيضاء في ضوء القمر"
@@ -525,6 +563,7 @@
     },
     {
      "id": "coral-ranunculus-spiral",
+     "code": 36,
      "title": {
       "en": "Coral Ranunculus Spirals",
       "ar": "دوامات الحوذان المرجانية"
@@ -539,6 +578,7 @@
     },
     {
      "id": "lilac-cloud-swirl",
+     "code": 37,
      "title": {
       "en": "Lilac Cloud",
       "ar": "سحابة الليلك"
@@ -553,6 +593,7 @@
     },
     {
      "id": "golden-roses-sunburst",
+     "code": 38,
      "title": {
       "en": "Golden Roses Sunburst",
       "ar": "ورود ذهبية مشعة"
@@ -567,6 +608,7 @@
     },
     {
      "id": "pink-tulips-sweep",
+     "code": 39,
      "title": {
       "en": "Sweep of Pink Tulips",
       "ar": "اندفاعة التوليب الوردي"
@@ -581,6 +623,7 @@
     },
     {
      "id": "red-poppies-dance",
+     "code": 40,
      "title": {
       "en": "Poppies Dancing",
       "ar": "شقائق النعمان الراقصة"
@@ -597,6 +640,7 @@
   },
   {
    "id": "gardens",
+   "code": 4,
    "name": {
     "en": "Gardens & Courtyards",
     "ar": "حدائق وأفنية"
@@ -606,6 +650,7 @@
    "items": [
     {
      "id": "alhambra-reflecting-pool",
+     "code": 41,
      "title": {
       "en": "Courtyard of the Reflecting Pool",
       "ar": "فناء البركة العاكسة"
@@ -620,6 +665,7 @@
     },
     {
      "id": "persian-chahar-bagh",
+     "code": 42,
      "title": {
       "en": "Persian Garden with Four Channels",
       "ar": "حديقة فارسية بأربع قنوات"
@@ -634,6 +680,7 @@
     },
     {
      "id": "jasmine-arch-moonlight",
+     "code": 43,
      "title": {
       "en": "Jasmine Arch by Moonlight",
       "ar": "قوس الياسمين في ضوء القمر"
@@ -648,6 +695,7 @@
     },
     {
      "id": "almond-blossom-orchard",
+     "code": 44,
      "title": {
       "en": "Almond Orchard in Bloom",
       "ar": "بستان اللوز المزهر"
@@ -662,6 +710,7 @@
     },
     {
      "id": "damascus-courtyard-fountain",
+     "code": 45,
      "title": {
       "en": "Damascene Courtyard Fountain",
       "ar": "نافورة في فناء دمشقي"
@@ -676,6 +725,7 @@
     },
     {
      "id": "rose-garden-cypress-path",
+     "code": 46,
      "title": {
       "en": "Rose Garden Along the Cypress Walk",
       "ar": "حديقة الورود على ممر السرو"
@@ -690,6 +740,7 @@
     },
     {
      "id": "oasis-palms-dawn",
+     "code": 47,
      "title": {
       "en": "Oasis at Dawn",
       "ar": "واحة عند الفجر"
@@ -704,6 +755,7 @@
     },
     {
      "id": "tiled-pavilion-lotus-pond",
+     "code": 48,
      "title": {
       "en": "Tiled Pavilion on the Lotus Pond",
       "ar": "جناح مبلط على بركة اللوتس"
@@ -718,6 +770,7 @@
     },
     {
      "id": "terraced-gardens-river",
+     "code": 49,
      "title": {
       "en": "Terraced Gardens Above the River",
       "ar": "حدائق مدرجة فوق النهر"
@@ -732,6 +785,7 @@
     },
     {
      "id": "winter-garden-snow-roses",
+     "code": 50,
      "title": {
       "en": "First Snow in the Rose Garden",
       "ar": "أول ثلج في حديقة الورود"
@@ -748,6 +802,7 @@
   },
   {
    "id": "islamic",
+   "code": 5,
    "name": {
     "en": "Islamic Art",
     "ar": "فن إسلامي"
@@ -757,6 +812,7 @@
    "items": [
     {
      "id": "mihrab-morning-light",
+     "code": 51,
      "title": {
       "en": "Mihrab in Morning Light",
       "ar": "محراب في ضوء الصباح"
@@ -771,6 +827,7 @@
     },
     {
      "id": "ottoman-mosque-chandeliers",
+     "code": 52,
      "title": {
       "en": "Beneath the Ottoman Domes",
       "ar": "تحت القباب العثمانية"
@@ -785,6 +842,7 @@
     },
     {
      "id": "pink-mosque-stained-glass",
+     "code": 53,
      "title": {
       "en": "Coloured Light on Persian Carpets",
       "ar": "ضوء ملون على السجاد الفارسي"
@@ -799,6 +857,7 @@
     },
     {
      "id": "cairo-minarets-sunset",
+     "code": 54,
      "title": {
       "en": "Minarets of Old Cairo at Sunset",
       "ar": "مآذن القاهرة القديمة عند الغروب"
@@ -813,6 +872,7 @@
     },
     {
      "id": "dome-of-the-rock-golden-hour",
+     "code": 55,
      "title": {
       "en": "The Dome of the Rock at Golden Hour",
       "ar": "قبة الصخرة في الساعة الذهبية"
@@ -827,6 +887,7 @@
     },
     {
      "id": "green-dome-dawn",
+     "code": 56,
      "title": {
       "en": "The Green Dome at Dawn",
       "ar": "القبة الخضراء عند الفجر"
@@ -841,6 +902,7 @@
     },
     {
      "id": "desert-mosque-starry-night",
+     "code": 57,
      "title": {
       "en": "A Desert Mosque Under the Stars",
       "ar": "مسجد في الصحراء تحت النجوم"
@@ -855,6 +917,7 @@
     },
     {
      "id": "ramadan-lanterns-dates",
+     "code": 58,
      "title": {
       "en": "Ramadan Lanterns",
       "ar": "فوانيس رمضان"
@@ -869,6 +932,7 @@
     },
     {
      "id": "closed-quran-rehal",
+     "code": 59,
      "title": {
       "en": "The Quran on Its Stand",
       "ar": "المصحف على الرحل"
@@ -883,6 +947,7 @@
     },
     {
      "id": "iznik-tulip-tiles",
+     "code": 60,
      "title": {
       "en": "Iznik Tiles with Tulips",
       "ar": "خزف إزنيق بالتوليب"
@@ -897,6 +962,7 @@
     },
     {
      "id": "gold-lapis-geometric",
+     "code": 61,
      "title": {
       "en": "Gold and Lapis Star Pattern",
       "ar": "نجوم الذهب واللازورد"
@@ -924,6 +990,7 @@
    "frames": [
     {
      "id": "rococo-roses-gold",
+     "code": 1,
      "name": {
       "en": "Rococo Roses",
       "ar": "روكوكو بالورود"
@@ -944,6 +1011,7 @@
     },
     {
      "id": "baroque-gold",
+     "code": 2,
      "name": {
       "en": "Baroque Gold",
       "ar": "ذهبي باروكي"
@@ -964,6 +1032,7 @@
     },
     {
      "id": "louis-gold",
+     "code": 3,
      "name": {
       "en": "Louis XV Gold",
       "ar": "ذهبي لويس الخامس عشر"
@@ -984,6 +1053,7 @@
     },
     {
      "id": "gold-roses",
+     "code": 4,
      "name": {
       "en": "Gold Roses",
       "ar": "ورود ذهبية"
@@ -1004,6 +1074,7 @@
     },
     {
      "id": "white-roses",
+     "code": 5,
      "name": {
       "en": "White Roses",
       "ar": "ورود بيضاء"
@@ -1024,6 +1095,7 @@
     },
     {
      "id": "antique-silver",
+     "code": 6,
      "name": {
       "en": "Antique Silver",
       "ar": "فضي عتيق"
@@ -1044,6 +1116,7 @@
     },
     {
      "id": "florentine-gold",
+     "code": 7,
      "name": {
       "en": "Florentine Gold",
       "ar": "ذهبي فلورنسي"
@@ -1064,6 +1137,7 @@
     },
     {
      "id": "flat-gilt",
+     "code": 8,
      "name": {
       "en": "Flat Gilt",
       "ar": "ذهبي مسطّح"
@@ -1095,6 +1169,7 @@
    "frames": [
     {
      "id": "gallery-black-mat",
+     "code": 9,
      "name": {
       "en": "Gallery Black",
       "ar": "أسود المعرض"
@@ -1115,6 +1190,7 @@
     },
     {
      "id": "black-floater",
+     "code": 10,
      "name": {
       "en": "Black Floater",
       "ar": "إطار أسود عائم"
@@ -1135,6 +1211,7 @@
     },
     {
      "id": "black-lacquer-gold",
+     "code": 11,
      "name": {
       "en": "Black Lacquer & Gold",
       "ar": "ورنيش أسود وذهبي"
@@ -1155,6 +1232,7 @@
     },
     {
      "id": "white-lacquer-mat",
+     "code": 12,
      "name": {
       "en": "White Gallery",
       "ar": "المعرض الأبيض"
@@ -1175,6 +1253,7 @@
     },
     {
      "id": "ivory-hairline",
+     "code": 13,
      "name": {
       "en": "Ivory & Hairline",
       "ar": "عاجي بخط ذهبي"
@@ -1195,6 +1274,7 @@
     },
     {
      "id": "oak-slim-mat",
+     "code": 14,
      "name": {
       "en": "Natural Oak",
       "ar": "خشب البلوط"
@@ -1215,6 +1295,7 @@
     },
     {
      "id": "walnut-slim-blackmat",
+     "code": 15,
      "name": {
       "en": "Walnut & Black",
       "ar": "جوز وأسود"
@@ -1235,6 +1316,7 @@
     },
     {
      "id": "charcoal-greymat",
+     "code": 16,
      "name": {
       "en": "Charcoal & Grey",
       "ar": "فحمي ورمادي"
@@ -1255,6 +1337,7 @@
     },
     {
      "id": "ash-white-mat",
+     "code": 17,
      "name": {
       "en": "Light Ash",
       "ar": "خشب الدردار"
@@ -1275,6 +1358,7 @@
     },
     {
      "id": "navy-lacquer-gold",
+     "code": 18,
      "name": {
       "en": "Navy & Gold",
       "ar": "كحلي وذهبي"
@@ -1295,6 +1379,7 @@
     },
     {
      "id": "burgundy-lacquer-gold",
+     "code": 19,
      "name": {
       "en": "Burgundy & Gold",
       "ar": "عنابي وذهبي"
@@ -1315,6 +1400,7 @@
     },
     {
      "id": "linen-liner-walnut",
+     "code": 20,
      "name": {
       "en": "Walnut & Linen",
       "ar": "جوز وكتان"
@@ -1335,6 +1421,7 @@
     },
     {
      "id": "double-mat-black",
+     "code": 21,
      "name": {
       "en": "Double Mat",
       "ar": "إطار بحاشيتين"
@@ -1355,6 +1442,7 @@
     },
     {
      "id": "shadow-box-white",
+     "code": 22,
      "name": {
       "en": "White Shadow Box",
       "ar": "صندوق أبيض عميق"
@@ -1375,6 +1463,7 @@
     },
     {
      "id": "walnut-classic",
+     "code": 23,
      "name": {
       "en": "Classic Walnut",
       "ar": "جوز كلاسيكي"
@@ -1406,6 +1495,7 @@
    "frames": [
     {
      "id": "arabesque-gold",
+     "code": 24,
      "name": {
       "en": "Arabesque Gold",
       "ar": "أرابيسك ذهبي"
@@ -1426,6 +1516,7 @@
     },
     {
      "id": "damascene-inlay",
+     "code": 25,
      "name": {
       "en": "Damascene Inlay",
       "ar": "تطعيم دمشقي بالصدف"
@@ -1446,6 +1537,7 @@
     },
     {
      "id": "khatam-inlay",
+     "code": 26,
      "name": {
       "en": "Khatam Inlay",
       "ar": "ترصيع الخاتم"
@@ -1466,6 +1558,7 @@
     },
     {
      "id": "zellige-border",
+     "code": 27,
      "name": {
       "en": "Zellige Border",
       "ar": "إطار الزليج"
@@ -1486,6 +1579,7 @@
     },
     {
      "id": "plaster-arabesque",
+     "code": 28,
      "name": {
       "en": "Plaster Arabesque",
       "ar": "جص بالأرابيسك"
@@ -1506,6 +1600,7 @@
     },
     {
      "id": "mashrabiya",
+     "code": 29,
      "name": {
       "en": "Mashrabiya",
       "ar": "مشربية"
@@ -1526,6 +1621,7 @@
     },
     {
      "id": "ebony-pearl",
+     "code": 30,
      "name": {
       "en": "Ebony & Pearl",
       "ar": "أبنوس وصدف"
@@ -1546,6 +1642,7 @@
     },
     {
      "id": "sandstone-star",
+     "code": 31,
      "name": {
       "en": "Sandstone Star",
       "ar": "حجر رملي نجمي"
